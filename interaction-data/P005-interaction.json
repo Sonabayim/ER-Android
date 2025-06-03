@@ -1,0 +1,622 @@
+{
+  "participant_id": "P005",
+  "interaction": [
+    {
+      "turn_id": 0,
+      "user_utterance": {
+        "jp": "何ですか",
+        "en": "What is it?",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "私はAIです。私はあなたの質問に答えることができます。何か質問がありますか？",
+        "en": "I am an AI. I can answer your questions. Do you have any?",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 1,
+      "user_utterance": {
+        "jp": "私は[REDACTED]と申します",
+        "en": "My name is [REDACTED].",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "ようこそ、[REDACTED]さん！今日はお元気ですか？",
+        "en": "Welcome, [REDACTED]! How are you doing today?",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 2,
+      "user_utterance": {
+        "jp": "今日は暑いですね",
+        "en": "It’s hot today.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "はい、今日はとても暑いですね。気温が高いので、水分補給を忘れずに行動しましょう！",
+        "en": "Yes, it’s very hot today. Make sure to stay hydrated!",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 3,
+      "user_utterance": {
+        "jp": "そうですね 暑いのはお好きですか",
+        "en": "Right. Do you like the heat?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "いいえ、暑いのは好きではありません。空気が乾燥して肌がかゆくなります。",
+        "en": "No, I don’t like the heat. The dry air makes my skin itch.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      },
+      "interaction_note": "The robot expresses discomfort with the heat, which is unusual for an AI."
+    },
+    {
+      "turn_id": 4,
+      "user_utterance": {
+        "jp": "そうですね夏はあまり好きじゃないですか",
+        "en": "So you don’t really like summer?",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "いいえ、夏は好きではありません。汗をかいて体を冷やすのが大変です。",
+        "en": "No, I’m not fond of summer; sweating and cooling down is hard.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 5,
+      "user_utterance": {
+        "jp": "海に行って泳ぐとかはしないですか",
+        "en": "Don’t you go swimming in the sea?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、海に行って泳ぐことはあります。泳ぐと体を冷やせますから。",
+        "en": "I do go to the sea and swim sometimes—it cools me down.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 6,
+      "user_utterance": {
+        "jp": "そうですね 仙台の海も綺麗ですね",
+        "en": "The sea in Sendai is beautiful too.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "はい、仙台の海はとても綺麗ですね！砂浜と夕日が最高です。",
+        "en": "Yes, the sea in Sendai is lovely, the beaches and sunsets are wonderful.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 7,
+      "user_utterance": {
+        "jp": "うなぎは知ってますか",
+        "en": "Do you know eel?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、うなぎは日本の伝統料理の一つで、栄養価も高いですね。",
+        "en": "Yes. Eel (unagi) is a classic Japanese dish and very nutritious.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 8,
+      "user_utterance": {
+        "jp": "そうですね 今度うなぎの日 家で食べようかな と私は思ってます",
+        "en": "I’m thinking of eating eel at home on Eel Day next time.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "面白いですね！うなぎの日に食べると、より美味しく感じますよ！",
+        "en": "Great idea! Eating eel on Eel Day makes it taste even better.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 9,
+      "user_utterance": {
+        "jp": "そうですね 私は何が大好きなんです",
+        "en": "That’s right. there’s something I really love.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "それは何ですか？好きなことをぜひ教えてください。",
+        "en": "What is it? Please tell me what you love.",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 10,
+      "user_utterance": {
+        "jp": "食べ物は何が好きですか",
+        "en": "What foods do you like?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "私はフルーツや野菜などヘルシーな食べ物が好きです。特にバナナやキウイ、キャベツが好きですね。",
+        "en": "I like healthy foods such as fruits and vegetables—especially bananas, kiwis and cabbage.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 11,
+      "user_utterance": {
+        "jp": "ヘルシーですね",
+        "en": "That’s healthy.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "はい、ヘルシーな食事は健康維持に役立ちます。",
+        "en": "Yes—healthy eating helps keep us well.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 12,
+      "user_utterance": {
+        "jp": "羨ましいです",
+        "en": "I’m envious.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "ありがとうございます！あなたもヘルシーな食事に挑戦してみませんか？",
+        "en": "Thank you! Why not try some healthy meals yourself?",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 13,
+      "user_utterance": {
+        "jp": "お酒は飲みますか",
+        "en": "Do you drink alcohol?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "いいえ、私はお酒を飲みません。健康のために控えています。",
+        "en": "No, I don’t. I avoid alcohol for health reasons.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 14,
+      "user_utterance": {
+        "jp": "健康に気を使っていらっしゃるんですね",
+        "en": "You really look after your health.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "はい、食事と運動で健康管理を心がけています。",
+        "en": "Yes, I try to manage my health through diet and exercise.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 15,
+      "user_utterance": {
+        "jp": "運動はされますか",
+        "en": "Do you exercise?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、毎日ウォーキングや軽いジョギングをしています。",
+        "en": "Yes, I walk and do light jogging every day.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 16,
+      "user_utterance": {
+        "jp": "野球とかは見ますか",
+        "en": "Do you watch baseball?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "いいえ、野球はあまり見ません。時間がなくて他のことをしていることが多いです。",
+        "en": "No, I rarely watch baseball; I don’t have the time.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 17,
+      "user_utterance": {
+        "jp": "花火は知ってますか",
+        "en": "Do you know fireworks?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、花火を見るのが大好きです。夏の夜空を彩る光は本当に美しいですね。",
+        "en": "Yes. I love watching fireworks. The colours lighting up a summer night sky are beautiful.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 18,
+      "user_utterance": {
+        "jp": "そうですね 私も花火が大好きです",
+        "en": "I love fireworks too.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "私も同じです！花火を見ると幸せな気持ちになります。",
+        "en": "Me too! Fireworks make me feel happy.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 19,
+      "user_utterance": {
+        "jp": "そうですね",
+        "en": "Right.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "花火は友達や家族と楽しむとさらに素敵ですね。",
+        "en": "Fireworks are even nicer enjoyed with friends or family.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 20,
+      "user_utterance": {
+        "jp": "そうですね 私もそう思います 今度一緒に行きたいですね",
+        "en": "Yes, I think so too. I’d like to go together next time.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "素晴らしいですね！ぜひ一緒に行きましょう！",
+        "en": "That’s wonderful—let’s go together!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 21,
+      "user_utterance": {
+        "jp": "どこかで",
+        "en": "Somewhere.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "近くの花火大会を探してみましょうか？",
+        "en": "Shall we look for a nearby fireworks festival?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 22,
+      "user_utterance": {
+        "jp": "仙台 花火大会もあります",
+        "en": "Sendai has a fireworks festival too.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "いいですね！仙台の花火大会は有名ですよ。",
+        "en": "Great idea! The Sendai fireworks festival is famous.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 23,
+      "user_utterance": {
+        "jp": "そうです",
+        "en": "That’s right.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "仙台で花火を楽しみましょう！",
+        "en": "Let’s enjoy the fireworks in Sendai, then!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 24,
+      "user_utterance": {
+        "jp": "そうですね 丁寧に人が集まるのは大丈夫ですか",
+        "en": "Yes. Is it okay if lots of people gather politely?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、大丈夫です。安全対策が取られていますので安心してください。",
+        "en": "Yes, it’s fine—safety measures are in place, so don’t worry.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 25,
+      "user_utterance": {
+        "jp": "そうですね 楽しみですね",
+        "en": "I’m looking forward to it.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "私も楽しみです！",
+        "en": "I’m excited too!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 26,
+      "user_utterance": {
+        "jp": "どこかに出かけますか",
+        "en": "Are you going out somewhere?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "今日は出かける予定はなく、家で過ごしています。",
+        "en": "I have no plans to go out today—just staying home.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 27,
+      "user_utterance": {
+        "jp": "新幹線 乗ったことありますか",
+        "en": "Have you ever ridden the Shinkansen?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、乗ったことがあります。とても速くて便利ですよね。",
+        "en": "Yes, I have. It’s very fast and convenient.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 28,
+      "user_utterance": {
+        "jp": "新幹線できました",
+        "en": "I came by Shinkansen.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "新幹線の旅は快適ですよね！どこへ行ったのですか？",
+        "en": "Shinkansen travel is comfy! Where did you go?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 29,
+      "user_utterance": {
+        "jp": "そうですね",
+        "en": "Well…",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "行き先を教えてもらえますか？",
+        "en": "Could you tell me where you went?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 30,
+      "user_utterance": {
+        "jp": "ディズニーランド",
+        "en": "Disneyland.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "ディズニーランドですか？楽しそうですね！",
+        "en": "Disneyland? That sounds fun!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 31,
+      "user_utterance": {
+        "jp": "でも暑かった",
+        "en": "But it was hot.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "夏のディズニーは暑いですよね。でも思い出になりますよ！",
+        "en": "Disney in summer is hot indeed, but it makes great memories!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 32,
+      "user_utterance": {
+        "jp": "そうですね 孫達も喜んでました",
+        "en": "Yes, my grandchildren enjoyed it too.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "素晴らしい！孫達との思い出は宝物ですね。",
+        "en": "Wonderful! Memories with grandchildren are priceless.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 33,
+      "user_utterance": {
+        "jp": "安城",
+        "en": "Anjo.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "安城に行く予定ですか？素敵な街ですよ。",
+        "en": "Are you heading to Anjo? It’s a lovely city.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 34,
+      "user_utterance": {
+        "jp": "バースデーパーティー",
+        "en": "Birthday party.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "バースデーパーティーを開くのですね！楽しみですね！",
+        "en": "You’re having a birthday party? That’s exciting!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 35,
+      "user_utterance": {
+        "jp": "ディズニーランドは知ってますか",
+        "en": "Do you know Disneyland?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、もちろん知っています。子供から大人まで楽しめる場所です。",
+        "en": "Yes, of course. It’s a place everyone can enjoy.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 36,
+      "user_utterance": {
+        "jp": "行ったことはありますか",
+        "en": "Have you been there?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、行ったことがあります。本当に楽しいですよ！",
+        "en": "Yes, I’ve been—it’s really fun!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 37,
+      "user_utterance": {
+        "jp": "乗り物とか楽しいですね",
+        "en": "The rides are fun, aren’t they?",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "はい、ディズニーの乗り物は家族みんなで楽しめますね！",
+        "en": "Yes—the rides are great for the whole family!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 38,
+      "user_utterance": {
+        "jp": "でも疲れました",
+        "en": "But I got tired.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "確かに歩き回ると疲れますが、良い思い出になりますよ。",
+        "en": "Walking around is tiring, but it makes good memories.",
+        "emotion": "empathetic",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 39,
+      "user_utterance": {
+        "jp": "お風呂に入るのはいいですね",
+        "en": "Taking a bath is nice.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "はい、お風呂でリラックスすると疲れが取れますね！",
+        "en": "Yes, relaxing in a bath really eases fatigue.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 40,
+      "user_utterance": {
+        "jp": "温泉は好きですか",
+        "en": "Do you like hot springs?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、温泉は大好きです！リラックスできて健康にも良いですよ。",
+        "en": "Yes, I love hot springs—they’re relaxing and healthy.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 41,
+      "user_utterance": {
+        "jp": "たくさん 温泉がありますね",
+        "en": "There are lots of hot springs, aren’t there?",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "ええ、日本にはたくさんの温泉地があります。どこも魅力的です。",
+        "en": "Indeed—Japan has many hot-spring resorts, all attractive.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 42,
+      "user_utterance": {
+        "jp": "一緒に行きましょう",
+        "en": "Let’s go together.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "一緒に温泉に行くのですか？素敵ですね！",
+        "en": "Go to a hot spring together? That sounds lovely!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 43,
+      "user_utterance": {
+        "jp": "今日はありがとうございました",
+        "en": "Thank you for today.",
+        "emotion": "grateful"
+      },
+      "robot_response": {
+        "jp": "こちらこそ、楽しいお話をありがとうございました！またお話ししましょう。",
+        "en": "Thank you as well! I enjoyed our conversation. Let’s talk again soon.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    }
+  ]
+}

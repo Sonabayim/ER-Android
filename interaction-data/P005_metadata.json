@@ -1,0 +1,13 @@
+{
+  "P005": {
+    "participant_id": "P005",
+    "age": 75,
+    "gender": "male",
+    "robot_model": "Actroid F",
+    "living_condition": "Lives with family",
+    "native_language": "Japanese",
+    "language_used": ["Japanese", "English (translated)"],
+    "location": "Sendai, Japan",
+    "notes": "Polite and conversational; expresses affection for family and local culture; enjoys traditional foods and festivals; exhibits a warm and curious engagement style; initiates companionship offers with the robot (e.g., fireworks, hot springs); references grandchildren."
+  }
+}

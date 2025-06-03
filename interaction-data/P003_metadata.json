@@ -1,0 +1,13 @@
+{
+  "P003": {
+    "participant_id": "P003",
+    "age": 68,
+    "gender": "female",
+    "robot_model": "Actroid F",
+    "living_condition": "With family",
+    "native_language": "Japanese",
+    "language_used": ["Japanese", "English (translated)"],
+    "location": "Sendai, Japan",
+    "notes": "Highly reflective;active lifestyle hiking and swimming;enjoys philosophical and humorous conversation"
+  }
+}

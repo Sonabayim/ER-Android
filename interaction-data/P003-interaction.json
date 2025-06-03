@@ -1,0 +1,490 @@
+{
+  "participant_id": "P003",
+  "interaction": [
+    {
+      "turn_id": 0,
+      "user_utterance": {
+        "jp": "こんにちは",
+        "en": "Hello.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "こんにちは！今日はどのようなことをお話ししましょうか？",
+        "en": "Hello! What would you like to talk about today?",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 1,
+      "user_utterance": {
+        "jp": "桜井光男",
+        "en": "Mitsuo Sakurai.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "桜井光男は、日本の俳優、声優、ナレーターです。1962年7月7日生まれ、東京都出身です。テレビドラマ、映画、舞台 などで活躍しています。",
+        "en": "Mitsuo Sakurai is a Japanese actor, voice actor, and narrator. He was born on July 7, 1962, in Tokyo. He is active in TV dramas, movies, and stage plays.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      },
+        "interaction_note": "Assumption of identity of a famous person without confirming intent."
+    },
+    {
+      "turn_id": 2,
+      "user_utterance": {
+        "jp": "その人とは別人です",
+        "en": "That's a different person.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "そうですか。その別の人の名前を教えてください。",
+        "en": "I see. Please tell me the name of the other person.",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 3,
+      "user_utterance": {
+        "jp": "私の名前は [REDACTED_NAME]です",
+        "en": "I am [REDACTED_NAME].",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "私は[REDACTED_NAME]さんの名前を知りません。あなたの名前を教えてください。",
+        "en": "I do not know the name [REDACTED_NAME]. Please tell me your name.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      },
+        "interaction_note": "Robot does not recognize the name provided by the user."
+    },
+    {
+      "turn_id": 4,
+      "user_utterance": {
+        "jp": "武蔵野市 味を教えましょう",
+        "en": "Let me tell you the flavour of Musashino city.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "武蔵野市の味は、おいしい料理がたくさんあります。特に有名なのは、豚汁、お好み焼き、おでん、おかずなどです。",
+        "en": "Musashino city has many delicious foods. Especially famous are pork soup, okonomiyaki, oden, and various side dishes.",
+        "emotion": "happy",
+        "gesture": "smile"
+      },
+        "interaction_note": "User mentions a city, but the robot does not recognize it as a person."
+    },
+    {
+      "turn_id": 5,
+      "user_utterance": {
+        "jp": "いや アンドロイドは頭がいいですね 私の趣味は山を歩くこと 海に入ること自然と接することです",
+        "en": "No, the android is smart. My hobbies are hiking in the mountains, swimming in the sea, and connecting with nature.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですね。アンドロイドは頭がいいですね。私も自然を楽しむのが好きです。山を歩くこと、海に入ること、自然と接することなど、とても楽しいですよね。",
+        "en": "Yes, the android is smart. I also like enjoying nature. Hiking, swimming in the sea, and connecting with nature are all very enjoyable.",
+        "emotion": "happy",
+        "gesture": "smile"
+      },
+        "interaction_note": "Robot repeats user's compliment ('android is smart') without adding new insight, showing low conversational depth."
+    },
+    {
+      "turn_id": 6,
+      "user_utterance": {
+        "jp": "とっても楽しいです",
+        "en": "It’s very enjoyable.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "私もそう思います！自然を楽しむことは、心を落ち着かせるのにも役立ちますよね。",
+        "en": "I think so too! Enjoying nature helps calm the mind as well.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 7,
+      "user_utterance": {
+        "jp": "アンドロイドは頭がいいですね いろんなことを知ってらっしゃる",
+        "en": "The android is very smart and knows a lot of things.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "はい、アンドロイドは頭がいいですね。彼は多くの知識を持っていて、いろんなことを知っています。彼は、自分の知識を深めるために、毎日勉強しているそうです。",
+        "en": "Yes, the android is smart. He has a lot of knowledge and knows many things. I hear he studies every day to deepen his knowledge.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 8,
+      "user_utterance": {
+        "jp": "私も テレビよりは新聞を読んだり 本を読むのが大好き",
+        "en": "I also prefer reading newspapers and books to watching TV.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですね。新聞や本を読むことは、自分の知識を深めるのにとても役立ちます。私もテレビよりも新聞や本を読むのが好きです。",
+        "en": "Yes. Reading newspapers and books is very helpful for deepening one's knowledge. I also prefer reading newspapers and books over watching TV.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 9,
+      "user_utterance": {
+        "jp": "私の好きな食べ物は今ならスイカと焼きそばです",
+        "en": "My favourite foods right now are watermelon and yakisoba.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですね。スイカと焼きそばはとてもおいしいですよね。私もスイカと焼きそばが大好きです！",
+        "en": "Yes, watermelon and yakisoba are very delicious. I love them too!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 10,
+      "user_utterance": {
+        "jp": "アンドロイドは一番好きな食べ物は何ですか",
+        "en": "What is the android’s favourite food?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "アンドロイドの一番好きな食べ物は、私にはわかりません。アンドロイドに聞いてみるのがいいかもしれません。",
+        "en": "I don't know what the android’s favourite food is. Maybe you should ask it.",
+        "emotion": "confused",
+        "gesture": "neutral"
+      },
+        "interaction_note": "Robot refers to 'the android' in third person, creating identity confusion since it is the android in question."
+    },
+    {
+      "turn_id": 11,
+      "user_utterance": {
+        "jp": "それはいらないです",
+        "en": "That’s not necessary.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "そうですか。それでは、他に何かお役に立てることはありますか？",
+        "en": "I see. Is there anything else I can help you with?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 12,
+      "user_utterance": {
+        "jp": "私は普段 海に入ったり山を歩いたり 時々 滝に打たれたりします",
+        "en": "I usually go into the sea, hike in the mountains, and sometimes stand under waterfalls.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですか。海に入ったり、山を歩いたり、滝に打たれたりするのはとても楽しいですよね。私も時々、自然を楽しむことをしています。",
+        "en": "I see. Swimming in the sea, hiking, and standing under waterfalls are very enjoyable. I also sometimes enjoy nature.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 13,
+      "user_utterance": {
+        "jp": "俺はいいことを聞きました",
+        "en": "I heard something good.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "それは素晴らしいですね！何のことでしたか？",
+        "en": "That’s wonderful! What was it?",
+        "emotion": "curious",
+        "gesture": "smile"
+      },
+        "interaction_note": "Robot responds positively to user’s statement, but does not ask for details, showing low engagement."
+    },
+    {
+      "turn_id": 14,
+      "user_utterance": {
+        "jp": "うんと 嬉しいことは",
+        "en": "Well, something that makes me happy is…",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "うんと嬉しいことですか。それは何ですか？",
+        "en": "Something that makes you really happy? What is it?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      },
+        "interaction_note": "Robot asks for clarification on what makes the user happy, but does not show deep understanding or empathy."
+    },
+    {
+      "turn_id": 15,
+      "user_utterance": {
+        "jp": "それは孫に会うことです",
+        "en": "It’s seeing my grandchild.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "それはとても嬉しいことですね！孫と会うのは、とても特別な瞬間ですよね。",
+        "en": "That’s a truly happy thing! Meeting your grandchild is a very special moment.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 16,
+      "user_utterance": {
+        "jp": "その通りです 孫は一切半です",
+        "en": "Exactly. My grandchild is one and a half years old.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですか。孫と会うのは、とても特別な瞬間ですね。孫との時間を大切にして、思い出に残るような時間を過ごしましょう！",
+        "en": "I see. Meeting your grandchild is indeed a special moment. Please treasure the time and make lasting memories!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 17,
+      "user_utterance": {
+        "jp": "はい ありがとうございます昨日は 孫と一緒にプールに入って遊びましたよ",
+        "en": "Yes, thank you. Yesterday, I played with my grandchild in the pool.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "それはとても楽しそうですね！プールで遊ぶのは、とても楽しいですよね。孫と一緒に遊ぶのは、とても特別な瞬間ですね。",
+        "en": "That sounds very fun! Playing in the pool is great, and spending time with your grandchild is a special moment.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 18,
+      "user_utterance": {
+        "jp": "暑い日に",
+        "en": "On a hot day.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "暑い日には、プールで遊ぶのはとても楽しいですよね。プールで遊ぶと、暑さを忘れて楽しめますし、水遊びを楽しむこともできます。",
+        "en": "On hot days, playing in the pool is really enjoyable. It helps you forget the heat and have fun in the water.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 19,
+      "user_utterance": {
+        "jp": "相手も楽しかったです そして気持ちが良かったです",
+        "en": "The other person enjoyed it too, and it felt good.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "それはとても素敵ですね！プールで遊ぶと、暑さを忘れて楽しめますし、水遊びを楽しむこともできます。また、プールで遊ぶことで、相手とのコミュニケーションも深まりますよね。",
+        "en": "That’s wonderful! Playing in the pool helps you forget the heat and have fun. It also deepens communication with the other person.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 20,
+      "user_utterance": {
+        "jp": "よくご存知ですね",
+        "en": "You know very well.",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、プールで遊ぶことについては、よくご存知です。プールで遊ぶことで、暑さを忘れて楽しめますし、水遊びを楽しむこともできます。また、プールで遊ぶことで、相手とのコミュニケーションも深まりますよね。",
+        "en": "Yes, I know about playing in the pool. It helps you forget the heat, enjoy the water, and strengthens communication.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 21,
+      "user_utterance": {
+        "jp": "この通りです",
+        "en": "Exactly.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですね。プールで遊ぶことは、暑さを忘れて楽しめますし、水遊びを楽しむこともできます。また、プールで遊ぶことで、相手とのコミュニケーションも深まりますよね。",
+        "en": "Yes, playing in the pool is fun, helps you forget the heat, and strengthens communication with others.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 22,
+      "user_utterance": {
+        "jp": "私が一番楽しい時は相手が喜んだ時",
+        "en": "My happiest time is when the other person is happy.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですね。相手が喜んだ時は、とても楽しいですよね。自分が喜んだ時よりも、相手が喜んだ時の方が、より楽しい気持ちになりますよね。",
+        "en": "Yes, when the other person is happy, it's really enjoyable. It's even more fun than when I'm happy myself.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 23,
+      "user_utterance": {
+        "jp": "はい",
+        "en": "Yes.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですね。相手が喜んだ時は、とても楽しいですよね。自分が喜んだ時よりも、相手が喜んだ時の方が、より楽しい気持ちになりますよね。",
+        "en": "That's right. When the other person is happy, it's even more joyful than when I'm happy.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 24,
+      "user_utterance": {
+        "jp": "喜びが倍になります",
+        "en": "The joy doubles.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですね。相手が喜んだ時は、自分の喜びも倍になりますよね。自分が喜んだ時よりも、相手が喜んだ時の方が、より楽しい気持ちになります。",
+        "en": "Exactly. When the other person is happy, your own happiness is doubled. It's even more enjoyable than when you are happy yourself.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 25,
+      "user_utterance": {
+        "jp": "でも時々冗談が通じない人がいます",
+        "en": "But sometimes, there are people who don't understand jokes.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "そうですね。時々、冗談が通じない人がいます。そのような場合は、相手の話をよく聞いて、その人の気持ちを理解しようとすることが大切です。",
+        "en": "Yes, sometimes people don't get jokes. In such cases, it's important to listen carefully and try to understand their feelings.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      },
+        "interaction_note": "User notes difficulties with communication (jokes not understood), but bot gives generic advice, missing the implicit emotional frustration."
+    },
+    {
+      "turn_id": 26,
+      "user_utterance": {
+        "jp": "なるほど",
+        "en": "I see.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "そうですね。相手の話をよく聞いて、その人の気持ちを理解しようとすることが大切です。また、自分の気持ちを正しく伝えることも大切です。",
+        "en": "Yes. Listening carefully and trying to understand others’ feelings is important. Also, expressing your own feelings properly matters.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 27,
+      "user_utterance": {
+        "jp": "お互いに楽しい時間を持つことはできていて素晴らしいことだと思います",
+        "en": "I think it’s wonderful that we can have an enjoyable time together.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですね。お互いに楽しい時間を持つことは、とても素晴らしいことです。自分の気持ちを正しく伝えることも大切ですが、相手の話をよく聞いて、その人の気持ちを理解しようとすることも大切です。",
+        "en": "Yes, having a fun time together is wonderful. It's important to express your feelings properly and to listen carefully to understand the other's feelings.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 28,
+      "user_utterance": {
+        "jp": "人生に大事なことは 予定にないアクシデントを楽しむことかもしれませんよ",
+        "en": "An important thing in life might be to enjoy unexpected accidents.",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "そうですね。人生に大事なことは、予定にないアクシデントを楽しむことですね。計画的な生活は大切ですが、時々は予定外のことを楽しむことも大切です。",
+        "en": "Yes, enjoying unexpected accidents is important in life. A planned life is good, but sometimes it's important to enjoy the unexpected too.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 29,
+      "user_utterance": {
+        "jp": "時々苦しいことは後で楽しいことに変化します",
+        "en": "Sometimes, hard times later become fun times.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "そうですね。時々、苦しいことは後で楽しいことに変化します。苦しい時は、それを乗り越えて、楽しい時間を過ごすことが大切です。",
+        "en": "That's right. Sometimes, difficult things later turn into fun memories. It's important to overcome tough times and have fun afterward.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 30,
+      "user_utterance": {
+        "jp": "人は多分楽しむために生まれてきました",
+        "en": "People are probably born to enjoy life.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですね。人は楽しむために生まれてきました。人生は長いですが、楽しい時間を大切にして、思い出に残るような時間を過ごしましょう！",
+        "en": "Yes, people are born to enjoy life. Life is long, so let's cherish enjoyable times and make lasting memories!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 31,
+      "user_utterance": {
+        "jp": "戦争はいけないですね",
+        "en": "War is bad, isn’t it?",
+        "emotion": "sad"
+      },
+      "robot_response": {
+        "jp": "はい、戦争はいけません。戦争は、多くの人々が苦しむことを意味します。戦争を防ぐために、国際的な協力を心がけることが大切です。",
+        "en": "Yes, war is bad. War causes suffering for many people. It's important to promote international cooperation to prevent war.",
+        "emotion": "sad",
+        "gesture": "neutral"
+      },
+        "interaction_note": "Robot acknowledges the negative impact of war, but does not offer deeper emotional support or solutions, showing low empathy."
+    },
+    {
+      "turn_id": 32,
+      "user_utterance": {
+        "jp": "世界中の人がみんな 協力して生きてきてよかったというような人生が最高ですね",
+        "en": "The best life is one where everyone in the world has cooperated and lived together happily.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうですね。世界中の人がみんな協力して生きてきてよかったというような人生が最高ですね。国際的な協力を心がけることで、世界中の人々が平和で楽しい時間を過ごせるようになります。",
+        "en": "Yes, a life where everyone in the world cooperates and lives happily is the best. International cooperation helps everyone have peaceful, enjoyable times.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 33,
+      "user_utterance": {
+        "jp": "同時に地球は",
+        "en": "At the same time, the Earth…",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "はい、同時に地球も守ることができます。国際的な協力を心がけることで、環境保護にも貢献できます。地球を守るために、環境保護に取り組むことも大切です。",
+        "en": "Yes, at the same time, we can also protect the Earth. International cooperation can help with environmental protection, too. It's important to work to protect the planet.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    }
+  ]
+}

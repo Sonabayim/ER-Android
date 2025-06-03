@@ -1,0 +1,13 @@
+{
+  "P008": {
+    "participant_id": "P008",
+    "age": 71,
+    "gender": "female",
+    "robot_model": "Actroid F",
+    "living_condition": "Lives alone",
+    "native_language": "Japanese",
+    "language_used": ["Japanese", "English (translated)"],
+    "location": "Sendai, Japan",
+    "notes": "Expresses nostalgia and emotional warmth; enjoys gardening, music, and travel; discussed memory difficulties and family memories."
+  }
+}
