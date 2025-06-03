@@ -1,0 +1,12 @@
+{
+  "P001": {
+    "participant_id": "P001",
+    "age": 72,
+    "gender": "male",
+    "robot_model": "Actroid F",
+    "living_condition": "Lives alone",
+    "native_language": "Japanese",
+    "language_used": ["Japanese", "English (translated)"],
+    "location": "Sendai, Japan",
+    "notes": "Highly reflective; uses mahjong as emotional anchor; values memory continuity and emotional resonance in interaction"  }
+}

@@ -1,0 +1,499 @@
+{
+  "participant_id": "P006",
+  "interaction": [
+    {
+      "turn_id": 0,
+      "user_utterance": {
+        "jp": "います よろしくお願いいたします こんにちは",
+        "en": "I’m here. Nice to meet you. hello!",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "こんにちは！よろしくお願いします！私はAIです。あなたは何をしていますか？",
+        "en": "Hello! Nice to meet you! I’m an AI. What are you doing?",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 1,
+      "user_utterance": {
+        "jp": "仕事ですか",
+        "en": "Work, perhaps?",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "そうですか！仕事はどんな仕事をしていますか？",
+        "en": "I see! What kind of work do you do?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 2,
+      "user_utterance": {
+        "jp": "お掃除の仕事してます",
+        "en": "I do cleaning work.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "お掃除の仕事ですか！それは大変ですね！どんな場所をお掃除しているのですか？",
+        "en": "Cleaning work! That must be tough. What kinds of places do you clean?",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 3,
+      "user_utterance": {
+        "jp": "廊下とかお掃除してます",
+        "en": "I clean hallways and such.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "そうなんですね！廊下をお掃除するのは大変ですよね！どんな手段で廊下をお掃除していますか？",
+        "en": "I see! Cleaning hallways is hard work. What tools do you use?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 4,
+      "user_utterance": {
+        "jp": "掃除機をかけて5時 してます",
+        "en": "I vacuum around five o’clock.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "掃除機を使って廊下を掃除するのは効率的ですね！掃除機はどのように使っていますか？",
+        "en": "Vacuum-cleaning hallways is efficient! How do you use the vacuum?",
+        "emotion": "happy",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 5,
+      "user_utterance": {
+        "jp": "やり方ですか 何を話せばいいんですか",
+        "en": "My method? What should I say?",
+        "emotion": "confused"
+      },
+      "robot_response": {
+        "jp": "やり方ですね？あなたが何をしたいか教えてもらえますか？",
+        "en": "Your method, right? Could you tell me what you’d like to do?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      },
+      "interaction_type": "The robot is trying to understand the user's cleaning methods, but the user seems confused about what to say. The robot's question is too open-ended, leading to a lack of specific information from the user."
+    },
+    {
+      "turn_id": 6,
+      "user_utterance": {
+        "jp": "周りを綺麗にすることが好きです",
+        "en": "I like keeping my surroundings clean.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "素晴らしいですね！綺麗にするために何をする予定ですか？",
+        "en": "That’s wonderful! What are you planning to do to keep things clean?",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 7,
+      "user_utterance": {
+        "jp": "吹いたり…もうちょっとしたらゴミでも落ちてれば拾います",
+        "en": "I wipe surfaces… and if I see trash I pick it up.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "良いですね！ゴミを取り除くためにどんな道具を使いますか？",
+        "en": "Great! What tools do you use for picking up trash?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 8,
+      "user_utterance": {
+        "jp": "綺麗にできるかっていうことをホームセンターに行って…",
+        "en": "I often go to a DIY store to see what can help me clean better…",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "ホームセンターでは何を買うつもりですか？",
+        "en": "What do you plan to buy at the DIY store?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      },
+      "interaction_type": "It seems robot is trying to keep conversation engaging. But it turns out constant questioning is not effective, as the user is not providing specific answers. The robot's questions are too general and do not lead to a productive conversation."
+    },
+    {
+      "turn_id": 9,
+      "user_utterance": {
+        "jp": "早くできる…例えばこんな子が好きです",
+        "en": "Something that lets me clean quickly… I like tools like this.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "どんな道具が好きですか？",
+        "en": "What kind of tool do you like?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 10,
+      "user_utterance": {
+        "jp": "手の届かないところとかを",
+        "en": "For places my hands can’t reach.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "手の届かない所をどうやって綺麗にしますか？",
+        "en": "How do you clean out-of-reach spots?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 11,
+      "user_utterance": {
+        "jp": "伸縮性のあるものを探してます",
+        "en": "I’m looking for something extendable.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "伸縮性のある道具を高い所と低い所でどう使い分けますか？",
+        "en": "How will you use an extendable tool for both high and low spots?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 12,
+      "user_utterance": {
+        "jp": "台所の隅の方の取り方は",
+        "en": "How do I reach the corners of the kitchen?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "台所の隅を掃除するコツを教えてもらえますか？",
+        "en": "Could you share your tips for cleaning kitchen corners?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 13,
+      "user_utterance": {
+        "jp": "温め汚れが嫌なのでスポンジに洗剤を付けて毎回掃除します",
+        "en": "Because I hate sticky grease I use a sponge with detergent and clean every single time.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "素晴らしいですね！毎回スポンジに洗剤を付けて掃除しているのですね。",
+        "en": "Excellent! So you use a soapy sponge each time.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 14,
+      "user_utterance": {
+        "jp": "趣味ですか",
+        "en": "Hobbies?",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "私の趣味はプログラミングです。あなたの趣味は何ですか？",
+        "en": "My hobby is programming. What’s yours?",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 15,
+      "user_utterance": {
+        "jp": "いろいろ計画を立てて自分の好きな所をじっくり見る旅行をします",
+        "en": "I travel planning myself, focusing time on places I want to see.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "素敵ですね！旅行ではどんな場所を見るのが好きですか？",
+        "en": "That’s lovely! What kinds of places do you like to see when you travel?",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 16,
+      "user_utterance": {
+        "jp": "仏像とかあと",
+        "en": "Buddhist statues and such.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "仏像を見るのが好きなのですね！",
+        "en": "So you like viewing Buddhist statues!",
+        "emotion": "happy",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 17,
+      "user_utterance": {
+        "jp": "あとはお寺とか神社とか",
+        "en": "Also temples and shrines.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "お寺や神社も好きなのですね！",
+        "en": "You like temples and shrines too!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 18,
+      "user_utterance": {
+        "jp": "普通です",
+        "en": "It’s just normal to me.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "なるほど、普通なんですね。",
+        "en": "I see, it’s just ordinary for you.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 19,
+      "user_utterance": {
+        "jp": "今はなるべく冷たい物より温かい物を取るようにしてます",
+        "en": "Nowadays I avoid cold things and prefer warm food.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "冷たい物を控えて温かい物を取るようにしているのですね。理由はお腹を冷やさないためですか？",
+        "en": "You avoid cold foods and choose warm ones to keep your stomach warm, right?",
+        "emotion": "empathetic",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 20,
+      "user_utterance": {
+        "jp": "はいそうです",
+        "en": "Yes, that’s right.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "夏でも温かい物を口にするようにしているのですね。",
+        "en": "So even in summer you go for warm foods.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 21,
+      "user_utterance": {
+        "jp": "私も動物とかに変わったりして じゃれて遊んで 笑ってるのが好きです",
+        "en": "I like playing around with animals and laughing with them.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "私も動物と遊ぶのが大好きです！犬と猫が特に好きです。あなたはどんな動物が好きですか？",
+        "en": "I love playing with animals too, especially dogs and cats! Which animals do you like?",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 22,
+      "user_utterance": {
+        "jp": "はい",
+        "en": "Yes.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "どんな動物が好きですか？",
+        "en": "Which animals do you like?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 23,
+      "user_utterance": {
+        "jp": "猫の方が反応が",
+        "en": "Cats respond better.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "私も猫の反応はとても良いと思います！",
+        "en": "I agree, cats respond really well!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 24,
+      "user_utterance": {
+        "jp": "そうですね",
+        "en": "Right.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "猫とはどんな遊びをしますか？",
+        "en": "What kinds of activities do you do with your cat?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 25,
+      "user_utterance": {
+        "jp": "お散歩に猫なんですけども",
+        "en": "I take my cat for a walk.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "猫とのお散歩は楽しそうですね！他にはどんな遊びをしていますか？",
+        "en": "Walking a cat sounds fun! What else do you do?",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 26,
+      "user_utterance": {
+        "jp": "遊んでます",
+        "en": "We just play.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "どんなおもちゃを使って遊びますか？",
+        "en": "What toys do you use when you play?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 27,
+      "user_utterance": {
+        "jp": "揺れ動くようなおもちゃを送って遊んでいます",
+        "en": "I use wiggly moving toys.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "揺れ動くおもちゃは猫が大好きですね！",
+        "en": "Cats love wiggly toys!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 28,
+      "user_utterance": {
+        "jp": "可愛いですよね",
+        "en": "It’s cute, isn’t it?",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "本当に可愛いです！",
+        "en": "Absolutely adorable!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 29,
+      "user_utterance": {
+        "jp": "紐ですね",
+        "en": "I also use string.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "紐遊びも猫は大好きですね！",
+        "en": "Cats love string play too!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 30,
+      "user_utterance": {
+        "jp": "太鼓の",
+        "en": "The drum-string one.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "太鼓の紐でも遊ぶのですね！どんなゲームをしますか？",
+        "en": "You use the drum-string toy. what games do you play?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      },
+        "interaction_type": "The robot is trying to engage the user in a conversation about their hobbies and interests, particularly focusing on their love for animals and playing with them. The user seems to enjoy discussing their cat and the activities they do together, but the robot's questions are sometimes too general or repetitive, leading to less engaging responses."
+    },
+    {
+      "turn_id": 31,
+      "user_utterance": {
+        "jp": "ゲームは何でも一生懸命",
+        "en": "We play any game wholeheartedly.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "素敵ですね！猫と熱中して遊ぶのは楽しいですよね！",
+        "en": "Wonderful, playing intently with your cat is great fun!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 32,
+      "user_utterance": {
+        "jp": "最高の一日は",
+        "en": "The best day is…",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "自然を満喫するのがお勧めです。森を散歩し、夕方は星空を眺めるのが大好きです。",
+        "en": "I recommend enjoying nature walking in woods and watching the stars in the evening.",
+        "emotion": "happy",
+        "gesture": "neutral"
+      },
+        "interaction_type": "It seems either robot cut the user off or mic didn't record user's full sentence. Robot tried to continue the conversation by suggesting a pleasant activity, but it didn't directly address the user's question about the best day."
+    },
+    {
+      "turn_id": 33,
+      "user_utterance": {
+        "jp": "星を見るとかそういう感動が",
+        "en": "The emotion of stargazing and such…",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "はい、星を見上げると本当に感動しますね！",
+        "en": "Yes, looking at the stars is truly moving!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 34,
+      "user_utterance": {
+        "jp": "星を見て感じるのは今日も1日",
+        "en": "Seeing the stars makes me feel the day is complete.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "毎晩星を見て、一日の締めくくりにしているのですね。",
+        "en": "So you end each day by looking at the stars.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      }
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "participant_id": "P004",
+  "interaction": [
+    {
+      "turn_id": 0,
+      "user_utterance": {
+        "jp": "よろしくお願いします",
+        "en": "Nice to meet you.",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "よろしくお願いします！私はあなたのために何をしますか？",
+        "en": "Nice to meet you! How can I help you?",
+        "emotion": "happy",
+        "gesture": "smiling"
+      }
+    },
+    {
+      "turn_id": 1,
+      "user_utterance": {
+        "jp": "ちょっとの時間なんですが 少しの時間ですが 色々とお話ししたいと思います",
+        "en": "We only have a short time, but I’d like to talk about various things.",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "わかりました！少しの時間ですが、何についてお話ししましょうか？",
+        "en": "Understood! Even in a short time, what would you like to talk about?",
+        "emotion": "happy",
+        "gesture": "smiling"
+      }
+    },
+    {
+      "turn_id": 2,
+      "user_utterance": {
+        "jp": "これまでなんとか これまで行ってきたこと言って",
+        "en": "Could you tell me what you’ve done up to now?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、これまで行ってきたことについてお話ししましょう！私はあなたが何をしてきたかを聞くのが大好きです！",
+        "en": "Sure, let’s talk about what you’ve been doing! I love hearing about it.",
+        "emotion": "happy",
+        "gesture": "smiling"
+      }
+    },
+    {
+      "turn_id": 3,
+      "user_utterance": {
+        "jp": "よく遊んでいました 遊びの学校は小学校と中学校はどこに行きました では化学の科学の方がちょっと習いました",
+        "en": "I used to play a lot. Which elementary and junior-high schools did you attend? I also studied a little chemistry.",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、小学校と中学校ではどこに行きましたか？また、化学の科学を少し習いましたか？",
+        "en": "Which elementary and junior-high schools did you attend? And did you study some chemistry?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      }
+    },
+    {
+      "turn_id": 4,
+      "user_utterance": {
+        "jp": "小学校も中学校も高校も仙台市内の学校で自然科学は高校で化学工業化というところで サミットでは 今何時",
+        "en": "Elementary, junior-high and high school were all in Sendai City; in high school I took a natural-science/chemical-engineering track… By the way, what time is it now?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、小学校、中学校、高校ともに仙台市内の学校で学びましたね。また、高校では自然科学と化学工業化を学びましたか？今何時ですか？現在の時刻は、午後7時30分です。",
+        "en": "…What time is it? It is currently 7:30 p.m.",
+        "emotion": "neutral",
+        "gesture": "nodding"
+      },
+      "interaction_note": "Robot states incorrect time (7:30 p.m.)."
+    },
+    {
+      "turn_id": 5,
+      "user_utterance": {
+        "jp": "9時半",
+        "en": "Half past nine.",
+        "emotion": "confused"
+      },
+      "robot_response": {
+        "jp": "はい、現在の時刻は午後9時半ですね。",
+        "en": "Yes, it’s 9:30 p.m.",
+        "emotion": "neutral",
+        "gesture": "nodding"
+      },
+      "interaction_note": "User corrects time; robot adjusts."
+    },
+    {
+      "turn_id": 6,
+      "user_utterance": {
+        "jp": "かもしれません",
+        "en": "Maybe.",
+        "emotion": "confused"
+      },
+      "robot_response": {
+        "jp": "はい、かもしれませんね。",
+        "en": "Yes, maybe.",
+        "emotion": "neutral",
+        "gesture": "confused"
+      }
+    },
+    {
+      "turn_id": 7,
+      "user_utterance": {
+        "jp": "そうですね 何かを一生懸命することが好きです",
+        "en": "Yes, I like working hard on something.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "それは素晴らしいですね！何かを一生懸命することはとても大切です。どんなことを一生懸命にやっていますか？",
+        "en": "That’s wonderful! Working hard is very important. What are you working hard on?",
+        "emotion": "happy",
+        "gesture": "smiling"
+      }
+    },
+    {
+      "turn_id": 8,
+      "user_utterance": {
+        "jp": "そういう時に喜ぶとかねそんな少しお話ししたいと思います",
+        "en": "At such times—things that make me happy. I’d like to talk a bit about them.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "はい、喜ぶときなどについてお話ししましょう！私はあなたが喜ぶときのことを聞くのが大好きです！",
+        "en": "Sure, let’s talk about what makes you happy! I love hearing that.",
+        "emotion": "happy",
+        "gesture": "smiling"
+      }
+    },
+    {
+      "turn_id": 9,
+      "user_utterance": {
+        "jp": "後は",
+        "en": "And then…",
+        "emotion": "confused"
+      },
+      "robot_response": {
+        "jp": "それ以外に何かありますか？",
+        "en": "Is there anything else?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      }
+    },
+    {
+      "turn_id": 10,
+      "user_utterance": {
+        "jp": "何かを一生懸命することが好きな本読むのも好きですし 運動するのは好きなんですけど 自分が入っているのが空きません",
+        "en": "I like working hard, reading books, and exercising, but there’s no vacancy in the club I want to join.",
+        "emotion": "sad"
+      },
+      "robot_response": {
+        "jp": "…入りたい所に空きがないのですね。それはとても大変ですね。",
+        "en": "…So there’s no opening. That must be tough.",
+        "emotion": "sad",
+        "gesture": "sad"
+      }
+    },
+    {
+      "turn_id": 11,
+      "user_utterance": {
+        "jp": "最高の一日は旅行に出ることが一番好きだから旅行に行って行けばどこにいても 今山に来てもクリニックも1日 その他 ハイハイテンション",
+        "en": "My best day is when I travel; wherever I go—even just a day in the mountains or at a clinic—I get really excited.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "…その他にもハイテンションで楽しめることがありますか？",
+        "en": "…Are there other things that get you excited?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      }
+    },
+    {
+      "turn_id": 12,
+      "user_utterance": {
+        "jp": "今までで一番感動したのは山形県で",
+        "en": "The most moving thing I experienced was in Yamagata Prefecture.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "山形県で一番感動したことは何ですか？",
+        "en": "What impressed you most in Yamagata?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      }
+    },
+    {
+      "turn_id": 13,
+      "user_utterance": {
+        "jp": "いちょうの木 からたくさんの葉っぱが落ちてもう一面 黄色に光ってるように見えたのが印象に残ってます",
+        "en": "A ginkgo tree dropped many leaves, and the whole ground looked shining yellow—that scene stayed with me.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "それはとても美しいですね！",
+        "en": "That’s very beautiful!",
+        "emotion": "happy",
+        "gesture": "smiling"
+      },
+      "interaction_note": "Conversation terminated by system crash."
+    },
+    {
+      "turn_id": 14,
+      "user_utterance": {
+        "jp": "疑いの気持ちが分かる人と話す",
+        "en": "I want to talk to someone who understands feelings of doubt.",
+        "emotion": "confused"
+      },
+      "robot_response": {
+        "jp": "私はあなたの話を聞くことができます。あなたが疑いの気持ちを抱いているとき、どのようなことを話しますか？",
+        "en": "I can listen to you. When you feel doubtful, what do you talk about?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      }
+    },
+    {
+      "turn_id": 15,
+      "user_utterance": {
+        "jp": "もう一度言ってください",
+        "en": "Please say that again.",
+        "emotion": "confused"
+      },
+      "robot_response": {
+        "jp": "疑いの気持ちが分かる人と話すということですね？疑いの気持ちを抱いているとき、あなたはどのような質問をしたり、どのような感情を表現したりしますか？",
+        "en": "You mean talking with someone who understands doubt? When you feel doubtful, what questions or feelings do you express?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      },
+      "interaction_note": "Session ended by error."
+    },
+    {
+      "turn_id": 16,
+      "user_utterance": {
+      "jp": "そこにいるんですけども",
+      "en": "I’m over there, you know…",
+      "emotion": "confused"
+      },
+      "robot_response": {
+      "jp": "あなたがそこにいるとき、どんな気持ちになりますか？疑いの気持ちについてもっと教えてください。",
+      "en": "When you're over there, how do you feel? Could you tell me more about your feelings of doubt?",
+      "emotion": "curious",
+      "gesture": "head tilt"
+      },
+      "interaction_note": "User input was vague ('I'm over there'); robot attempts to reconnect to prior emotional context (doubt)."
+    },
+    {
+      "turn_id": 17,
+      "user_utterance": {
+        "jp": "これから我が家に来てくれた時",
+        "en": "When you come to my house…",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "あなたの家ですか？どんな家ですか？あなたが住んでいる家ですか？",
+        "en": "Your house? What kind of house is it? Is it where you live?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      }
+    },
+    {
+      "turn_id": 18,
+      "user_utterance": {
+        "jp": "私が好きなので それを止めて",
+        "en": "I like it, so stop that.",
+        "emotion": "confused"
+      },
+      "robot_response": {
+        "jp": "あなたが好きなものを止めるのですか？なぜ止めるのですか？",
+        "en": "You want to stop something you like? Why do you want to stop?",
+        "emotion": "curious",
+        "gesture": "confused"
+      }
+    },
+    {
+      "turn_id": 19,
+      "user_utterance": {
+        "jp": "もう一度 質問してください",
+        "en": "Please ask again.",
+        "emotion": "confused"
+      },
+      "robot_response": {
+        "jp": "もう一度質問しますか？何について質問しますか？",
+        "en": "Ask again? About what?",
+        "emotion": "curious",
+        "gesture": "confused"
+      },
+      "interaction_note": "User asks for repetition; robot seeks clarification."
+    },
+    {
+      "turn_id": 20,
+      "user_utterance": {
+        "jp": "はい",
+        "en": "Yes.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "どのような質問ですか？",
+        "en": "What kind of question?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      }
+    },
+    {
+      "turn_id": 21,
+      "user_utterance": {
+        "jp": "食事をしながら",
+        "en": "While eating…",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "食事をしながら何をしますか？",
+        "en": "What do you do while eating?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      }
+    },
+    {
+      "turn_id": 22,
+      "user_utterance": {
+        "jp": "孫達が孫の話すことを聞くのが好きです",
+        "en": "I like listening to what my grandchildren say.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "あなたは孫達の話を聞くのが好きですか？なぜそう思うのですか？",
+        "en": "You enjoy listening to your grandchildren? Why is that?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      }
+    },
+    {
+      "turn_id": 23,
+      "user_utterance": {
+        "jp": "時間とか空間に関係なく 子供なのでとんでもないかな ありえない話",
+        "en": "Regardless of time or space, because they’re kids they say outrageous, impossible things…",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "子供ならではの不思議な話を聞くのが好きなのですね？なぜそう思うのですか？",
+        "en": "You like those unique, mysterious stories kids tell? Why do you think that is?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      }
+    },
+    {
+      "turn_id": 24,
+      "user_utterance": {
+        "jp": "自分 そういうの 聞いて",
+        "en": "I… hearing those kinds of things…",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "あなたは自分が聞いたことのないような不思議な話を聞くのが好きですか？なぜそう思うのですか？",
+        "en": "Do you like hearing mysterious stories you've never heard before? Why?",
+        "emotion": "curious",
+        "gesture": "head tilt"
+      },
+      "interaction_note": "Session terminated by error."
+    },
+    {
+      "turn_id": 25,
+      "user_utterance": {
+        "jp": "近くだと 青森県産",
+        "en": "If it's nearby, Aomori products.",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "はい、青森県産ですね。私は青森県産のりんごや、みかん、キャベツ、そして、青森県産の豆類などがあります。",
+        "en": "Yes, Aomori products. They include Aomori apples, mandarins, cabbage, and beans.",
+        "emotion": "happy",
+        "gesture": "smiling"
+      }
+    },
+    {
+      "turn_id": 26,
+      "user_utterance": {
+        "jp": "私もいいね",
+        "en": "I like that too.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "それは素晴らしいですね！青森県産の食材は健康的で美味しいです。また、料理に様々な味を加えることができます。",
+        "en": "That's wonderful! Aomori ingredients are healthy and delicious. They add various flavors to dishes.",
+        "emotion": "happy",
+        "gesture": "smiling"
+      }
+    },
+    {
+      "turn_id": 27,
+      "user_utterance": {
+        "jp": "かなえの女",
+        "en": "Kanae-no-onna.",
+        "emotion": "confused"
+      },
+      "robot_response": {
+        "jp": "私はかなえの女について知識がありません。ごめんなさい。",
+        "en": "I don't have information on 'Kanae-no-onna,' sorry.",
+        "emotion": "confused",
+        "gesture": "confused"
+      },
+      "interaction_note": "Unrecognized term."
+    },
+    {
+      "turn_id": 28,
+      "user_utterance": {
+        "jp": "宮城県宮城県で美味しいものは",
+        "en": "In Miyagi Prefecture, what's tasty?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "宮城県で美味しいものとして、宮城県産の魚や、牡蠣、豆類、お菓子やお茶などがあります。",
+        "en": "Tasty items in Miyagi Prefecture include locally caught fish, oysters, beans, sweets, and tea.",
+        "emotion": "happy",
+        "gesture": "smiling"
+      }
+    },
+    {
+      "turn_id": 29,
+      "user_utterance": {
+        "jp": "ずんだ餅はどうですか",
+        "en": "How about zunda-mochi?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "ずんだ餅は宮城県の名物で、枝豆を使った甘いお菓子です。とても美味しいですよ！",
+        "en": "Zunda-mochi is a specialty of Miyagi Prefecture, a sweet made with edamame. It's very delicious!",
+        "emotion": "happy",
+        "gesture": "smiling"
+      }
+    },
+    {
+      "turn_id": 30,
+      "user_utterance": {
+        "jp": "ずんだ餅は美味しいです",
+        "en": "Zunda-mochi is delicious.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "はい、ずんだ餅はとても美味しいですね！甘くて、もちもちしていて、食べると幸せな気持ちになります。",
+        "en": "Yes, zunda-mochi is very delicious! It's sweet, chewy, and makes you feel happy when you eat it.",
+        "emotion": "happy",
+        "gesture": "smiling"
+      }
+    },
+    {
+      "turn_id": 31,
+      "user_utterance": {
+        "jp": "今日の詰碁 外は暑いんですけども",
+        "en": "Today's tsumego, it's hot outside though.",
+        "emotion": "confused"
+      },
+      "robot_response": {
+        "jp": "今日の詰碁は、外が暑いということですね。詰碁は宮城県の伝統的なお菓子です。詰碁は、お米を砕いて、抹茶を加えて、揚げて作られています。",
+        "en": "Today's tsumego, it's hot outside. Tsumego is a traditional Miyagi sweet made by crushing rice, adding matcha and deep-frying.",
+        "emotion": "confused",
+        "gesture": "confused"
+      },
+      "interaction_note": "Confused tsumego (Go puzzles) with confection."
+    },
+    {
+      "turn_id": 32,
+      "user_utterance": {
+        "jp": "暑いのと寒いのとどちらが嫌ですか",
+        "en": "Which do you dislike more, heat or cold?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "私は暑いのと寒いのとどちらも好きです。暑い時は外で遊ぶことができて楽しいですし、寒い時は家で暖かく過ごせて心地よいです。",
+        "en": "I like both heat and cold. Heat lets me play outside, while cold lets me be cozy indoors.",
+        "emotion": "neutral",
+        "gesture": "nodding"
+      }
+    },
+    {
+      "turn_id": 33,
+      "user_utterance": {
+        "jp": "新しい友達はどういう方ですか",
+        "en": "What kind of person is your new friend?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "新しい友達は、どんな方ですか？私は新しい友達について知識がありません。ごめんなさい。",
+        "en": "What kind of person is your new friend? I don't have information on them, sorry.",
+        "emotion": "confused",
+        "gesture": "confused"
+      },
+      "interaction_note": "Robot does not recognize 'new friend' context."
+    },
+    {
+      "turn_id": 34,
+      "user_utterance": {
+      "jp": "ありがとうございました。また今度お話ししましょう。",
+      "en": "Thank you very much. Let's talk again next time.",
+      "emotion": "happy"
+      },
+      "robot_response": {
+      "jp": "こちらこそ、ありがとうございました！またお話しできるのを楽しみにしています。",
+      "en": "Thank you as well! I look forward to talking with you again.",
+      "emotion": "happy",
+      "gesture": "smiling"
+      
+    }
+    }
+  ]
+}

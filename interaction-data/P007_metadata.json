@@ -1,0 +1,13 @@
+{
+  "P007": {
+    "participant_id": "P007",
+    "age": 64,
+    "gender": "male",
+    "robot_model": "Actroid F",
+    "living_condition": "With family",
+    "native_language": "Japanese",
+    "language_used": ["Japanese", "English (translated)"],
+    "location": "Sendai, Japan",
+    "notes": "active lifestyle with jogging and walking in nature; values health, routine."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "P006": {
+    "participant_id": "P006",
+    "age": 74,
+    "gender": "female",
+    "robot_model": "Actroid F",
+    "living_condition": "With family",
+    "native_language": "Japanese",
+    "language_used": ["Japanese", "English (translated)"],
+    "location": "Sendai, Japan",
+    "notes": "Warm, reserved demeanor; enjoys structured routines; takes joy in small rituals like stargazing and animal play"
+  }
+}

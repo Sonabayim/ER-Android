@@ -1,0 +1,14 @@
+{
+  "P002": {
+    "participant_id": "P002",
+    "age": 75,
+    "gender": "female",
+    "robot_model": "Actroid F",
+    "living_condition": "Lives alone",
+    "native_language": "Japanese",
+    "language_used": ["Japanese", "English (translated)"],
+    "location": "Sendai, Japan",
+    "current_lifestyle": "Full-time homemaker, active in gym/swimming lessons",
+    "notes": "Grieving experience discussed; sensitive content; emotionally expressive"
+  }
+}

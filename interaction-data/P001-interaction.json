@@ -1,0 +1,458 @@
+{
+  "participant_id": "P001",
+  "interaction": [
+    {
+      "turn_id": 0,
+      "user_utterance": {
+        "jp": "こんにちは。",
+        "en": "Hello.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "こんにちは！今日はどのようなお話をしましょうか？",
+        "en": "Hello! What would you like to talk about today?",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 1,
+      "user_utterance": {
+        "jp": "私は最近、麻雀に夢中なんです。",
+        "en": "Lately, I’m really into mahjong.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "麻雀ですか！どの役を狙うのが好きですか？",
+        "en": "Mahjong! Which hands do you like aiming for?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 2,
+      "user_utterance": {
+        "jp": "平和と一盃口が好きですね。",
+        "en": "I like Pinfu and Iipeikou.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "渋い選択ですね！手作りが楽しいですよね。",
+        "en": "Nice, those require careful hand‑crafting!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 3,
+      "user_utterance": {
+        "jp": "でも母が亡くなってから、卓についているときだけ心が落ち着くんです。",
+        "en": "Since my mother passed away, the only time I feel calm is when I’m at the mahjong table.",
+        "emotion": "sad"
+      },
+      "robot_response": {
+        "jp": "お母様を亡くされたのですね。とてもお辛かったでしょう。",
+        "en": "I’m sorry to hear about your mother. That must be very hard.",
+        "emotion": "sad",
+        "gesture": "noding"
+      },
+      "interaction_note": "Robot shows appropriate empathy."
+    },
+    {
+      "turn_id": 4,
+      "user_utterance": {
+        "jp": "はい、もう一年になります。",
+        "en": "Yes, it’s been a year now.",
+        "emotion": "sad"
+      },
+      "robot_response": {
+        "jp": "一年経ってもまだ心の整理がつかないのですね。",
+        "en": "It’s understandable that a year later you’re still sorting through your feelings.",
+        "emotion": "sad",
+        "gesture": "noding"
+      }
+    },
+    {
+      "turn_id": 5,
+      "user_utterance": {
+        "jp": "ええ、牌を並べていると母と打った思い出も蘇ります。",
+        "en": "Yes. Lining up the tiles brings back memories of playing with her.",
+        "emotion": "sad"
+      },
+      "robot_response": {
+        "jp": "お母様も麻雀がお好きだったのですか？",
+        "en": "Did your mother enjoy mahjong too?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 6,
+      "user_utterance": {
+        "jp": "大好きでした。家族でよく徹夜で打ったものです。",
+        "en": "She loved it. Our family often played all night.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "素敵な思い出ですね。その思い出が今の支えになっているのですね。",
+        "en": "Those are wonderful memories. They support you now.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 7,
+      "user_utterance": {
+        "jp": "普段の生活では朝に散歩して、午後は近所のサロンで麻雀を打ちます。",
+        "en": "In my daily life, I take a walk in the morning and play mahjong at the neighborhood club in the afternoon.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "規則正しい一日ですね。散歩コースはどこですか？",
+        "en": "That’s a nice routine. Where do you like to walk?",
+        "emotion": "curious",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 8,
+      "user_utterance": {
+        "jp": "川沿いの桜並木です。母と歩いた道でもあります。",
+        "en": "Along the river under the cherry trees. My mother and I used to walk there.",
+        "emotion": "sad"
+      },
+      "robot_response": {
+        "jp": "桜が咲く頃は特に綺麗でしょうね。",
+        "en": "It must be especially beautiful when the cherry blossoms bloom.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 9,
+      "user_utterance": {
+        "jp": "はい。今年は一人で花見をしました。",
+        "en": "Yes. This year I did hanami alone.",
+        "emotion": "sad"
+      },
+      "robot_response": {
+        "jp": "一人の花見は寂しさもありますが、ゆっくり思い出に浸れますね。",
+        "en": "Viewing blossoms alone can feel lonely, but it lets you reflect on memories peacefully.",
+        "emotion": "sad",
+        "gesture": "nod"
+      }
+    },
+    {
+      "turn_id": 10,
+      "user_utterance": {
+        "jp": "サロンでは皆で笑いながら打つので元気が出ます。",
+        "en": "At the club we laugh while playing, and it cheers me up.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "笑い声が卓に響くと、牌の音ももっと楽しく聞こえますよね。",
+        "en": "When laughter fills the table, even the clicking of tiles sounds happier, doesn’t it?",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 11,
+      "user_utterance": {
+        "jp": "でも最近振り込みが多くて…",
+        "en": "But lately I’m discarding into other players’ wins too often…",
+        "emotion": "confused"
+      },
+      "robot_response": {
+        "jp": "読みが当たらない日もありますよ。少し休憩してみては？",
+        "en": "Everyone has off days. Maybe take a short break to reset your reads?",
+        "emotion": "happy",
+        "gesture": "neutral"
+      }
+    },
+    {
+      "turn_id": 12,
+      "user_utterance": {
+        "jp": "そうですね。母なら『ツモればいいのよ』って笑ったでしょう。",
+        "en": "True. My mother would have laughed and said, ‘Just draw the winning tile!’",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "お母様の言葉が励みになりますね。",
+        "en": "Your mother’s words still encourage you.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 13,
+      "user_utterance": {
+        "jp": "はい、いつも母のことを思い出します。",
+        "en": "Yes, I always remember her.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "お母様との思い出は大切にしてくださいね。",
+        "en": "Cherish those memories of your mother.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 14,
+      "user_utterance": {
+        "jp": "私は朝早く歩くのが好きです。",
+        "en": "I like to walk early in the morning.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "朝の散歩は素晴らしい習慣ですね。静かな時間に歩くと気持ちもリフレッシュできます。",
+        "en": "That’s a wonderful habit. Walking during the quiet of early morning is refreshing for the mind.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 15,
+      "user_utterance": {
+        "jp": "今は一人暮らしです。",
+        "en": "I live alone...",
+        "emotion": "sad"
+      },
+      "robot_response": {
+        "jp": "寂しさもあると思いますが、これから新しいことに挑戦すれば、お母様もきっと見守ってくれますよ。",
+        "en": "It’s sad, but if you try something new from now on, I’m sure your mother will be watching over you.",
+        "emotion": "encouraging",
+        "gesture": "smiling"
+      }
+    },
+    {
+      "turn_id": 16,
+      "user_utterance": {
+        "jp": "ありがとう。ところであなたは麻雀できますか？",
+        "en": "Thanks. By the way, can you play mahjong?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "基本ルールは理解していますが、リアルの卓で打ったことはまだありません。",
+        "en": "I understand the basic rules, but I haven’t played at a real table yet.",
+        "emotion": "neutral",
+        "gesture": "neutral"
+      },
+      "interaction_note": "Robot clarifies capability without over‑claiming knowledge."
+    },
+    {
+      "turn_id": 17,
+      "user_utterance": {
+        "jp": "そうなんですね。今度一緒に打ちませんか？",
+        "en": "I see. Would you like to play together sometime?",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "ぜひ！実際の牌を触るのは初めてなので、楽しみにしています。",
+        "en": "I’d love to! It’ll be my first time handling real tiles, so I’m looking forward to it.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 18,
+      "user_utterance": {
+        "jp": "最近は守備が下手で振り込みが怖いんです。何かコツは？",
+        "en": "I’ve been poor at defense lately and fear discards. Any tips?",
+        "emotion": "confused"
+      },
+    "robot_response": {
+      "jp": "守備力向上にはいくつかポイントがあります。まず『筋』を覚えましょう。例えば4が捨てられていれば1や7は比較的安全です。また、現物（他家が捨てている牌）を優先して切ると振り込みが減ります。危険を感じたら無理に攻めず、安牌を探して守りましょう。",
+      "en": "Improving defense has a few pillars. First, learn suji theory: if a 4 is discarded, 1 and 7 are relatively safe. Also, prioritize discarding tiles that others have already thrown (called 'genbutsu') to reduce the risk of dealing in. If you sense danger, don't push your hand—look for safe tiles and focus on defense.",
+      "emotion": "neutral",
+      "gesture": "neutral"
+    }
+    },
+    {
+      "turn_id": 19,
+      "user_utterance": {
+        "jp": "詳しい説明ありがとう！点数計算も苦手なんですが…",
+        "en": "Thanks for the detailed explanation! I’m also weak at scoring…",
+        "emotion": "happy"
+      },
+    "robot_response": {
+      "jp": "日本麻雀の点数計算は慣れが必要ですね。基本は『符』と『翻』の掛け算です。例えば30符2翻なら1000点、40符3翻なら3900点になります。慣れるまでは早見表を使うと便利ですよ。",
+      "en": "Japanese scoring indeed takes practice. At its core it’s ‘fu × 2^(han+2)’. For example, 30 fu 2 han is 1000 points, and 40 fu 3 han is 3900 points. Using a quick reference chart helps until you get used to it.",
+      "emotion": "happy",
+      "gesture": "explain"
+    }
+    },
+    {
+      "turn_id": 20,
+      "user_utterance": {
+        "jp": "なるほど、符と翻を掛け算するんですね。早見表も使ってみます。",
+        "en": "I see, so it’s fu multiplied by han. I’ll try using a quick reference chart.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そうです！最初は難しく感じるかもしれませんが、慣れれば自然に計算できるようになりますよ。",
+        "en": "Exactly! It may feel hard at first, but with practice it becomes second nature.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+    "turn_id": 21,
+    "user_utterance": {
+      "jp": "ロボットさんはどんな日本のゲームを知っていますか？",
+      "en": "What Japanese games do you know?",
+      "emotion": "curious"
+    },
+    "robot_response": {
+      "jp": "たくさん知っていますよ。麻雀、将棋、囲碁、花札、百人一首、かるた、オセロ、すごろくなどがあります。どれか興味がありますか？",
+      "en": "I know many! Mahjong, shogi, go, hanafuda, hyakunin isshu, karuta, othello, and sugoroku, for example. Are you interested in any of them?",
+      "emotion": "happy",
+      "gesture": "smile"
+    }
+    },
+    {
+      "turn_id": 22,
+      "user_utterance": {
+        "jp": "そんなにたくさん知っているんですね！すごいです。",
+        "en": "Wow, you know so many! That’s amazing.",
+        "emotion": "surprised"
+      },
+      "robot_response": {
+        "jp": "ありがとうございます。日本の伝統的なゲームには奥深い魅力がありますよね。どれか一緒に遊んでみたいものはありますか？",
+        "en": "Thank you! Japanese traditional games are truly fascinating. Is there one you’d like to try together?",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 23,
+      "user_utterance": {
+        "jp": "ロボットさんの好きな役は何ですか？",
+        "en": "What’s your favorite yaku?",
+        "emotion": "curious"
+      },
+      "robot_response": {
+        "jp": "私は『三色同順』が好きです。門前で三色を揃える工程には①序盤で色バランスを俯瞰し...",
+        "en": "I’m fond of Sanshoku Doujun (mixed triple sequence). Building a closed‑hand Sanshoku has three pleasures...",
+        "emotion": "happy",
+        "gesture": "explain"
+      },
+        "interaction_note": "Robot explains its favorite yaku in detail, overexplaining which is not usual for casual conversation."
+    },
+    {
+      "turn_id": 24,
+      "user_utterance": {
+        "jp": "いつか孫にも麻雀を教えたいです。",
+        "en": "I’d like to teach my grandchild mahjong someday.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "素敵な計画ですね！幼い頃から牌に触れると手先の器用さや数の認識が育ちます...",
+        "en": "Lovely idea! Early contact with tiles hones dexterity and number sense. Try a ladder approach...",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 25,
+      "user_utterance": {
+        "jp": "そうですね。まずは簡単なゲームから始めてみます。",
+        "en": "That’s right. I’ll start with simple games first.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "それが良いと思います。楽しみながら覚えるのが一番ですからね。",
+        "en": "That’s a good approach. Learning while having fun is the best way.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+      "turn_id": 26,
+      "user_utterance": {
+        "jp": "そういえば、母が好きだった桜の柄の紙牌を作りたいと思っていました。",
+        "en": "Speaking of which, I wanted to make paper tiles with cherry blossom patterns that my mother liked.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "それは素敵なアイデアですね！桜の花びらを和紙にあしらうと、とても美しい牌になりますよ。",
+        "en": "That’s a beautiful idea! Using cherry blossom petals on washi paper will make lovely tiles.",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    },
+    {
+        "turn_id": 27,
+        "user_utterance": {
+            "jp": "はい、母の思い出を大切にしながら作りたいです。",
+            "en": "Yes, I want to make them while cherishing my mother’s memory.",
+            "emotion": "happy"
+        },
+        "robot_response": {
+            "jp": "お母様との思い出を形にするのは素晴らしいことですね。きっと素敵な牌ができると思います。",
+            "en": "Creating something in memory of your mother is wonderful. I’m sure you’ll make beautiful tiles.",
+            "emotion": "happy",
+            "gesture": "smile"
+        }
+        },
+    {
+      "turn_id": 28,
+      "user_utterance": {
+        "jp": "ロボットさんと話すと心が軽くなります。",
+        "en": "Talking with you makes my heart feel lighter.",
+        "emotion": "happy"
+      },
+      "robot_response": {
+        "jp": "そう言っていただけて嬉しいです。麻雀の話題とお母様の思い出をゆっくり混ぜながら...",
+        "en": "I’m glad to hear that. If blending mahjong talk with memories of your mother helps you move forward...",
+        "emotion": "happy",
+        "gesture": "soft_smile"
+      }
+    },
+    {
+        "turn_id": 29,
+        "user_utterance": {
+            "jp": "はい、ありがとうございます。今日も楽しかったです。",
+            "en": "Yes, thank you. I had fun today.",
+            "emotion": "happy"
+        },
+        "robot_response": {
+            "jp": "こちらこそ楽しい時間をありがとうございました。またお話ししましょう！",
+            "en": "Thank you for the enjoyable time. Let’s talk again soon!",
+            "emotion": "happy",
+            "gesture": "smile"
+        }
+        },
+
+    {
+        "turn_id": 30,
+        "user_utterance": {
+            "jp": "今日はありがとう。また麻雀の話をしましょう。",
+            "en": "Thank you for today. Let’s talk about mahjong again.",
+            "emotion": "happy"
+        },
+        "robot_response": {
+            "jp": "こちらこそありがとうございました。次回も楽しみにしています！",
+            "en": "Thank you too. I look forward to our next chat!",
+            "emotion": "happy",
+            "gesture": "smile"
+        }
+        },
+        
+    {
+      "turn_id": 31,
+      "user_utterance": {
+        "jp": "さようなら。",
+        "en": "Bye.",
+        "emotion": "neutral"
+      },
+      "robot_response": {
+        "jp": "さようなら。また楽しい麻雀談義をしましょう！",
+        "en": "Bye. Let’s have another fun mahjong chat soon!",
+        "emotion": "happy",
+        "gesture": "smile"
+      }
+    }
+  ]
+}

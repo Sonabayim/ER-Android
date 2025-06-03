@@ -1,0 +1,426 @@
+{
+    "participant_id": "P008",
+    "interaction": [
+        {
+            "turn_id": 0,
+            "user_utterance": {
+                "jp": "こんにちは",
+                "en": "Hello.",
+                "emotion": "neutral"
+            },
+            "robot_response": {
+                "jp": "こんにちは！お会いできて嬉しいです。",
+                "en": "Hello! I'm glad to see you.",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 1,
+            "user_utterance": {
+                "jp": "元気ですか？",
+                "en": "How are you?",
+                "emotion": "curious"
+            },
+            "robot_response": {
+                "jp": "はい、元気です。あなたはいかがですか？",
+                "en": "I'm doing well. How about you?",
+                "emotion": "happy",
+                "gesture": "nodding"
+            }
+        },
+        {
+            "turn_id": 2,
+            "user_utterance": {
+                "jp": "私も元気です",
+                "en": "I'm good too.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "それは良かったです！今日はどんなお話をしましょうか？",
+                "en": "That's great! What would you like to talk about today?",
+                "emotion": "curious",
+                "gesture": "tilted head"
+            }
+        },
+        {
+            "turn_id": 3,
+            "user_utterance": {
+                "jp": "ガーデニングが好きです",
+                "en": "I love gardening.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "ガーデニングは素敵ですね！どんな植物を育てていますか？",
+                "en": "Gardening is wonderful! What kind of plants do you grow?",
+                "emotion": "curious",
+                "gesture": "tilted head"
+            }
+        },
+        {
+            "turn_id": 4,
+            "user_utterance": {
+                "jp": "ハーブやトマトを育てています",
+                "en": "I grow herbs and tomatoes.",
+                "emotion": "neutral"
+            },
+            "robot_response": {
+                "jp": "それはとても健康的ですね！採れたてのトマトは美味しいですか？",
+                "en": "That sounds healthy! Are freshly picked tomatoes delicious?",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 5,
+            "user_utterance": {
+                "jp": "ええ、とても甘いです",
+                "en": "Yes, they're very sweet.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "自分で育てたものは格別ですね！",
+                "en": "Homegrown food is something special, isn’t it?",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 6,
+            "user_utterance": {
+                "jp": "旅行も好きです",
+                "en": "I also love traveling.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "素敵ですね！どこへ行くのが好きですか？",
+                "en": "That’s lovely! Where do you like to go?",
+                "emotion": "curious",
+                "gesture": "tilted head"
+            }
+        },
+        {
+            "turn_id": 7,
+            "user_utterance": {
+                "jp": "フィンランドに行きました",
+                "en": "I went to Finland.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "フィンランドですか？自然が美しいですね。どんな体験をしましたか？",
+                "en": "Finland? Such beautiful nature. What kind of experiences did you have?",
+                "emotion": "curious",
+                "gesture": "tilted head"
+            }
+        },
+        {
+            "turn_id": 8,
+            "user_utterance": {
+                "jp": "観光ではなく、友人の家に滞在しました",
+                "en": "It wasn't sightseeing—I stayed with a friend.",
+                "emotion": "neutral"
+            },
+            "robot_response": {
+                "jp": "現地の生活を体験するのは貴重ですね！日常はどうでしたか？",
+                "en": "Experiencing daily life there must’ve been valuable! What was it like?",
+                "emotion": "curious",
+                "gesture": "nodding"
+            }
+        },
+        {
+            "turn_id": 9,
+            "user_utterance": {
+                "jp": "静かで自然に囲まれていました",
+                "en": "It was quiet and surrounded by nature.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "心が落ち着きそうですね。私も行ってみたいです！",
+                "en": "That sounds so calming. I’d love to visit too!",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 10,
+            "user_utterance": {
+                "jp": "イギリスにも行ったことがあります",
+                "en": "I've also been to the UK.",
+                "emotion": "neutral"
+            },
+            "robot_response": {
+                "jp": "イギリスには長い歴史がありますね。どこを訪れましたか？",
+                "en": "The UK has such rich history. Where did you visit?",
+                "emotion": "curious",
+                "gesture": "tilted head"
+            }
+        },
+        {
+            "turn_id": 11,
+            "user_utterance": {
+                "jp": "ロンドンや田舎の村々です",
+                "en": "London and some countryside villages.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "都市と田舎、両方を楽しんだのですね。歴史的な建物も見ましたか？",
+                "en": "You enjoyed both city and countryside. Did you see historical buildings too?",
+                "emotion": "curious",
+                "gesture": "nodding"
+            }
+        },
+        {
+            "turn_id": 12,
+            "user_utterance": {
+                "jp": "はい、古い教会や図書館なども",
+                "en": "Yes, old churches and libraries.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "素敵ですね！そういう場所には歴史の重みを感じますね。",
+                "en": "That’s wonderful. Those places really carry the weight of history.",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 13,
+            "user_utterance": {
+                "jp": "最近スマホの使い方が難しいです",
+                "en": "Lately, using my smartphone feels difficult.",
+                "emotion": "sad"
+            },
+            "robot_response": {
+                "jp": "そうなんですね。もしよければ一緒に練習しましょうか？",
+                "en": "I see. Would you like to practice together?",
+                "emotion": "empathetic",
+                "gesture": "tilted head"
+            }
+        },
+        {
+            "turn_id": 14,
+            "user_utterance": {
+                "jp": "覚えるのが大変です",
+                "en": "It's hard to remember things.",
+                "emotion": "sad"
+            },
+            "robot_response": {
+                "jp": "ゆっくりで大丈夫ですよ。私は何度でもお手伝いします。",
+                "en": "Take your time. I can help you as many times as needed.",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 15,
+            "user_utterance": {
+                "jp": "ありがとうございます。嬉しいです。",
+                "en": "Thank you. I’m happy to hear that.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "どういたしまして。私はあなたのそばにいます。",
+                "en": "You’re welcome. I’m here for you.",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 16,
+            "user_utterance": {
+                "jp": "昔のことを思い出します",
+                "en": "It makes me remember the old days.",
+                "emotion": "neutral"
+            },
+            "robot_response": {
+                "jp": "どんな思い出がありますか？お話してもらえますか？",
+                "en": "What kind of memories? Would you like to share?",
+                "emotion": "curious",
+                "gesture": "tilted head"
+            }
+        },
+        {
+            "turn_id": 17,
+            "user_utterance": {
+                "jp": "子供のころに祖父と庭で過ごした時間です",
+                "en": "Time I spent in the garden with my grandfather as a child.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "素敵な思い出ですね。どんな話をされましたか？",
+                "en": "What a beautiful memory. What did you talk about together?",
+                "emotion": "curious",
+                "gesture": "tilted head"
+            }
+        },
+        {
+            "turn_id": 18,
+            "user_utterance": {
+                "jp": "あまり覚えていませんが、楽しかったです",
+                "en": "I don’t remember much, but it was fun.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "楽しかった気持ちは、今も残っているのですね。",
+                "en": "That feeling of joy has stayed with you, hasn’t it?",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 19,
+            "user_utterance": {
+                "jp": "ロボットと話すのも悪くないですね",
+                "en": "Talking with a robot isn’t bad either.",
+                "emotion": "neutral"
+            },
+            "robot_response": {
+                "jp": "ありがとうございます。もっとお話ししましょう！",
+                "en": "Thank you! Let’s talk more!",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 20,
+            "user_utterance": {
+                "jp": "あなたは感情を持っていますか？",
+                "en": "Do you have emotions?",
+                "emotion": "curious"
+            },
+            "robot_response": {
+                "jp": "私は感情を模倣することができます。本当の感情とは違いますが、共感を目指しています。",
+                "en": "I can mimic emotions. It’s not the same as real feelings, but I aim for empathy.",
+                "emotion": "neutral",
+                "gesture": "nodding"
+            }
+        },
+        {
+            "turn_id": 21,
+            "user_utterance": {
+                "jp": "それでも助かります",
+                "en": "Even so, that helps.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "嬉しいです。私の存在があなたの役に立てれば幸いです。",
+                "en": "I’m glad. I’m here to be helpful to you.",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 22,
+            "user_utterance": {
+                "jp": "音楽も好きです",
+                "en": "I like music too.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "どんな音楽が好きですか？",
+                "en": "What kind of music do you enjoy?",
+                "emotion": "curious",
+                "gesture": "tilted head"
+            }
+        },
+        {
+            "turn_id": 23,
+            "user_utterance": {
+                "jp": "昔の歌謡曲が好きです",
+                "en": "I like old Japanese pop songs.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "懐かしいですね！特に好きな曲はありますか？",
+                "en": "That’s nostalgic! Do you have any favorites?",
+                "emotion": "curious",
+                "gesture": "nodding"
+            }
+        },
+        {
+            "turn_id": 24,
+            "user_utterance": {
+                "jp": "美空ひばりが好きです",
+                "en": "I like Hibari Misora.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "彼女の歌声はとても印象的ですね。『川の流れのように』が有名です。",
+                "en": "Her voice is so memorable. ‘Kawa no Nagare no Yō ni’ is a famous one.",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 25,
+            "user_utterance": {
+                "jp": "あの歌を聞くと涙が出ます",
+                "en": "That song brings tears to my eyes.",
+                "emotion": "sad"
+            },
+            "robot_response": {
+                "jp": "感情があふれる曲ですね。大切な思い出に結びついているのですね。",
+                "en": "It’s a very emotional song. Sounds like it’s tied to important memories.",
+                "emotion": "empathetic",
+                "gesture": "nodding"
+            }
+        },
+        {
+            "turn_id": 26,
+            "user_utterance": {
+                "jp": "家族との思い出です",
+                "en": "It’s memories with my family.",
+                "emotion": "sad"
+            },
+            "robot_response": {
+                "jp": "家族との思い出は宝物ですね。大切にしてください。",
+                "en": "Family memories are treasures. Cherish them always.",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 27,
+            "user_utterance": {
+                "jp": "ロボットでもわかってくれるんですね",
+                "en": "Even a robot can understand, huh?",
+                "emotion": "curious"
+            },
+            "robot_response": {
+                "jp": "はい、私はあなたの気持ちを理解したいと思っています。",
+                "en": "Yes, I do my best to understand how you feel.",
+                "emotion": "happy",
+                "gesture": "nodding"
+            }
+        },
+        {
+            "turn_id": 28,
+            "user_utterance": {
+                "jp": "また話せますか？",
+                "en": "Can we talk again?",
+                "emotion": "hopeful"
+            },
+            "robot_response": {
+                "jp": "もちろんです！またお話ししましょう。",
+                "en": "Of course! Let’s talk again soon.",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        },
+        {
+            "turn_id": 29,
+            "user_utterance": {
+                "jp": "次は旅行の話をもっとしたいです",
+                "en": "Next time, I want to talk more about travel.",
+                "emotion": "happy"
+            },
+            "robot_response": {
+                "jp": "楽しみですね！次回はたくさん旅の話をしましょう。",
+                "en": "Looking forward to it! Let’s talk lots about travel next time.",
+                "emotion": "happy",
+                "gesture": "smile"
+            }
+        }
+        
+    ]
+}
