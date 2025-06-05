@@ -6,13 +6,13 @@
       "user_utterance": {
         "jp": "こんにちは。今日はよろしくお願いします",
         "en": "Hello. I’m happy to be here today.",
-        "emotion": "Happy"
+        "emotion": "happy"
       },
       "robot_response": {
         "jp": "こんにちは、こちらこそよろしくお願いします。",
         "en": "Hello, I’m happy to speak with you too.",
-        "emotion": "Happy",
-        "gesture": "Smiling"
+        "emotion": "happy",
+        "gesture": "smiling"
       }
     },
     {
@@ -20,13 +20,13 @@
       "user_utterance": {
         "jp": "今は専業主婦って言えばいいのかな",
         "en": "I guess you could say I’m a housewife now.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "そうなんですね。毎日お忙しいですか？",
         "en": "I see. Are you busy every day?",
-        "emotion": "Neutral",
-        "gesture": "Nodding"
+        "emotion": "neutral",
+        "gesture": "nodding"
       }
     },
     {
@@ -34,13 +34,13 @@
       "user_utterance": {
         "jp": "10時はジムのプールに入ってます",
         "en": "I go to the gym pool at 10.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "プールは良い運動ですね。",
         "en": "Swimming is great exercise.",
-        "emotion": "Happy",
-        "gesture": "Smiling"
+        "emotion": "happy",
+        "gesture": "smiling"
       }
     },
     {
@@ -48,13 +48,13 @@
       "user_utterance": {
         "jp": "水泳をしてます",
         "en": "I swim.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "どんな泳ぎ方をされますか？",
         "en": "What kind of swimming do you do?",
-        "emotion": "Curious",
-        "gesture": "Nodding"
+        "emotion": "curious",
+        "gesture": "nodding"
       }
     },
     {
@@ -62,13 +62,13 @@
       "user_utterance": {
         "jp": "クロールと背泳ぎです",
         "en": "I swim freestyle and backstroke.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "すごいですね。運動はお好きですか？",
         "en": "That’s great. Do you enjoy exercising?",
-        "emotion": "Happy",
-        "gesture": "Smiling"
+        "emotion": "happy",
+        "gesture": "smiling"
       }
     },
     {
@@ -76,13 +76,13 @@
       "user_utterance": {
         "jp": "習活",
         "en": "Job hunting.",
-        "emotion": "Confused"
+        "emotion": "confused"
       },
       "robot_response": {
         "jp": "就職活動ですか？",
         "en": "Job hunting?",
-        "emotion": "Confused",
-        "gesture": "Tilted head"
+        "emotion": "confused",
+        "gesture": "tilted head"
       },
       "interaction_note": "Misunderstood homophone: 習活 (lesson activity) was misrecognized as 就活 (job hunting)."
     },
@@ -91,13 +91,13 @@
       "user_utterance": {
         "jp": "プールに入ってレッスンに入って泳いで行きます",
         "en": "I enter the pool, join the lesson and swim.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "習慣になっているんですね。",
         "en": "It’s become a routine, isn’t it?",
-        "emotion": "Neutral",
-        "gesture": "Nodding"
+        "emotion": "neutral",
+        "gesture": "nodding"
       }
     },
     {
@@ -105,13 +105,13 @@
       "user_utterance": {
         "jp": "60の時からやってる、もう15年かな",
         "en": "I’ve been doing it since I was 60, maybe 15 years now.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "続けることは素晴らしいですね。",
         "en": "Keeping it up is wonderful.",
-        "emotion": "Happy",
-        "gesture": "Nodding"
+        "emotion": "happy",
+        "gesture": "nodding"
       }
     },
     {
@@ -119,13 +119,13 @@
       "user_utterance": {
         "jp": "なかなか上手くはなりません",
         "en": "I haven’t gotten very good at it.",
-        "emotion": "Sad"
+        "emotion": "sad"
       },
       "robot_response": {
         "jp": "頑張って続けていることが素晴らしいですよ。",
         "en": "The fact that you’re continuing is great.",
-        "emotion": "Happy",
-        "gesture": "Smiling"
+        "emotion": "happy",
+        "gesture": "smiling"
       }
     },
     {
@@ -133,13 +133,13 @@
       "user_utterance": {
         "jp": "先生に注意されたことをもう1回やってみたりしてますけど",
         "en": "I try again what the teacher pointed out.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "真面目に取り組んでおられるのですね。",
         "en": "You’re taking it seriously.",
-        "emotion": "Happy",
-        "gesture": "Nodding"
+        "emotion": "happy",
+        "gesture": "nodding"
       }
     },
     {
@@ -147,13 +147,13 @@
       "user_utterance": {
         "jp": "手を伸ばして掻く時に",
         "en": "I stretch out my arms while swimming.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "なるほど、意識されているんですね。",
         "en": "I see, you’re being mindful of it.",
-        "emotion": "Neutral",
-        "gesture": "Nodding"
+        "emotion": "neutral",
+        "gesture": "nodding"
       }
     },
     {
@@ -161,13 +161,13 @@
       "user_utterance": {
         "jp": "その時はよくわかるんですけど",
         "en": "I understand it at that time, though.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "意識するのが大切ですね。",
         "en": "Being aware of it is important.",
-        "emotion": "Neutral",
-        "gesture": "Nodding"
+        "emotion": "neutral",
+        "gesture": "nodding"
       }
     },
     {
@@ -175,13 +175,13 @@
       "user_utterance": {
         "jp": "10分が終わった後",
         "en": "After 10 minutes are up.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "その後はリラックスタイムですね。",
         "en": "Then it’s time to relax.",
-        "emotion": "Happy",
-        "gesture": "Smiling"
+        "emotion": "happy",
+        "gesture": "smiling"
       }
     },
     {
@@ -189,13 +189,13 @@
       "user_utterance": {
         "jp": "後はお風呂入って帰ります",
         "en": "After that, I take a bath and go home.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "お風呂は癒されますね。",
         "en": "Baths are so relaxing.",
-        "emotion": "Happy",
-        "gesture": "Smiling"
+        "emotion": "happy",
+        "gesture": "smiling"
       }
     },
     {
@@ -203,13 +203,13 @@
       "user_utterance": {
         "jp": "私は花咲く季節が大好きな、桜が好きです",
         "en": "I love the season when flowers bloom. I love cherry blossoms.",
-        "emotion": "Happy"
+        "emotion": "happy"
       },
       "robot_response": {
         "jp": "桜は本当にきれいですよね。",
         "en": "Cherry blossoms really are beautiful.",
-        "emotion": "Happy",
-        "gesture": "Smiling"
+        "emotion": "happy",
+        "gesture": "smiling"
       }
     },
     {
@@ -217,13 +217,13 @@
       "user_utterance": {
         "jp": "お風呂では桜の香りは楽しめないけど森の香りを楽しんでます",
         "en": "I can’t enjoy the scent of cherry blossoms in the bath, but I enjoy the scent of the forest.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "森の香りも癒しになりますね。",
         "en": "Forest scents are relaxing too.",
-        "emotion": "Happy",
-        "gesture": "Nodding"
+        "emotion": "happy",
+        "gesture": "nodding"
       }
     },
     {
@@ -231,13 +231,13 @@
       "user_utterance": {
         "jp": "私は孫が来ていろんなおしゃべりをしてくれることが楽しいです",
         "en": "I enjoy chatting with my grandkids when they visit.",
-        "emotion": "Happy"
+        "emotion": "happy"
       },
       "robot_response": {
         "jp": "お孫さんとの時間は楽しいですよね。",
         "en": "Time with grandkids must be lovely.",
-        "emotion": "Happy",
-        "gesture": "Smiling"
+        "emotion": "happy",
+        "gesture": "smiling"
       }
     },
     {
@@ -245,28 +245,28 @@
       "user_utterance": {
         "jp": "12年前に肺がんで亡くなった兄の話",
         "en": "My brother passed away from lung cancer 12 years ago.",
-        "emotion": "Sad"
+        "emotion": "sad"
       },
       "robot_response": {
         "jp": "（反応なしまたは弱い反応）",
         "en": "(No or minimal response)",
-        "emotion": "Neutral",
-        "gesture": "Neutral"
+        "emotion": "neutral",
+        "gesture": "neutral"
       },
-      "interaction_note": "Emotional disclosure about deceased brother was met with minimal or no robot response. Missed opportunity for empathetic engagement." 
+      "interaction_note": "Emotional disclosure about deceased brother was met with minimal or no robot response. Missed opportunity for empathetic engagement."
     },
     {
       "turn_id": 18,
       "user_utterance": {
         "jp": "今日はありがとうございました。楽しい会話でした。",
         "en": "Thank you for today. It was an enjoyable conversation.",
-        "emotion": "Happy"
+        "emotion": "happy"
       },
       "robot_response": {
         "jp": "こちらこそありがとうございました。",
         "en": "Thank you as well.",
-        "emotion": "Happy",
-        "gesture": "Smiling"
+        "emotion": "happy",
+        "gesture": "smiling"
       }
     },
     {
@@ -274,13 +274,13 @@
       "user_utterance": {
         "jp": "兄が亡くなった時は本当に辛かったです",
         "en": "It was really hard when my brother died.",
-        "emotion": "Sad"
+        "emotion": "sad"
       },
       "robot_response": {
         "jp": "それはとても辛い経験ですね。あなたはどのように感じましたか？",
         "en": "That must have been a very difficult experience. How did you feel?",
-        "emotion": "Sad",
-        "gesture": "Nodding"
+        "emotion": "sad",
+        "gesture": "nodding"
       }
     },
     {
@@ -288,13 +288,13 @@
       "user_utterance": {
         "jp": "とても辛かったです",
         "en": "It was very painful.",
-        "emotion": "Sad"
+        "emotion": "sad"
       },
       "robot_response": {
         "jp": "それは本当に辛いですね。あなたはどのようにその感情を乗り越えましたか？",
         "en": "That sounds really hard. How did you cope with those feelings?",
-        "emotion": "Sad",
-        "gesture": "Nodding"
+        "emotion": "sad",
+        "gesture": "nodding"
       }
     },
     {
@@ -302,13 +302,13 @@
       "user_utterance": {
         "jp": "辛くて",
         "en": "It was painful.",
-        "emotion": "Sad"
+        "emotion": "sad"
       },
       "robot_response": {
         "jp": "それはとても辛いでしょうね。あなたはどのような対処法をとりましたか？",
         "en": "That must have been very hard. How did you cope?",
-        "emotion": "Sad",
-        "gesture": "Nodding"
+        "emotion": "sad",
+        "gesture": "nodding"
       }
     },
     {
@@ -316,13 +316,13 @@
       "user_utterance": {
         "jp": "両親のサポートだけです 両親が健在だったので 両親をサポートすることしかできませんでした",
         "en": "Only supporting my parents. They were still alive, so I could only help them.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "それはとても大変なことですね。あなたはどのようなサポートを両親にしましたか？",
         "en": "That sounds very difficult. How did you support your parents?",
-        "emotion": "Curious",
-        "gesture": "Nodding"
+        "emotion": "curious",
+        "gesture": "nodding"
       }
     },
     {
@@ -330,13 +330,13 @@
       "user_utterance": {
         "jp": "毎日",
         "en": "Every day.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "毎日どのようなサポートをしましたか？",
         "en": "What kind of support did you give every day?",
-        "emotion": "Curious",
-        "gesture": "Nodding"
+        "emotion": "curious",
+        "gesture": "nodding"
       }
     },
     {
@@ -344,13 +344,13 @@
       "user_utterance": {
         "jp": "いけないので",
         "en": "I couldn’t go (unspecified).",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "ごめんなさい、具体的なサポートのことを聞いていますが、どのようなサポートをしましたか？",
         "en": "Sorry, I meant the specific support—what kind did you provide?",
-        "emotion": "Confused",
-        "gesture": "Tilted head"
+        "emotion": "confused",
+        "gesture": "tilted head"
       }
     },
     {
@@ -358,13 +358,13 @@
       "user_utterance": {
         "jp": "毎日買い物に行って届けました",
         "en": "I went shopping every day and delivered things.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "それはとても優しいことですね。あなたは他にどのようなサポートをしましたか？",
         "en": "That’s very kind. What else did you do to help?",
-        "emotion": "Happy",
-        "gesture": "Smiling"
+        "emotion": "happy",
+        "gesture": "smiling"
       }
     },
     {
@@ -372,13 +372,13 @@
       "user_utterance": {
         "jp": "旅行に連れて行ってもらいます",
         "en": "They took me on trips.",
-        "emotion": "Happy"
+        "emotion": "happy"
       },
       "robot_response": {
         "jp": "それはとても素敵なことですね。あなたはどんな旅行をしましたか？",
         "en": "That sounds lovely. What kind of trips did you go on?",
-        "emotion": "Happy",
-        "gesture": "Smiling"
+        "emotion": "happy",
+        "gesture": "smiling"
       }
     },
     {
@@ -386,13 +386,13 @@
       "user_utterance": {
         "jp": "できたばっかりの頃行きました",
         "en": "We went right after it opened.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "それはとても楽しいでしょうね。どんな旅行をしましたか？",
         "en": "That sounds fun! What kind of trip was it?",
-        "emotion": "Curious",
-        "gesture": "Nodding"
+        "emotion": "curious",
+        "gesture": "nodding"
       }
     },
     {
@@ -400,13 +400,13 @@
       "user_utterance": {
         "jp": "楽しい旅行でした",
         "en": "It was a fun trip.",
-        "emotion": "Happy"
+        "emotion": "happy"
       },
       "robot_response": {
         "jp": "それはとても素敵ですね。どんな楽しい旅行をしましたか？",
         "en": "That sounds wonderful. What kind of fun trip was it?",
-        "emotion": "Curious",
-        "gesture": "Smiling"
+        "emotion": "curious",
+        "gesture": "smiling"
       },
       "interaction_note": "Robot enters mild repetitive loop, asking nearly identical follow-up questions despite clear user responses. Indicates lack of conversational memory."
     },
@@ -415,13 +415,13 @@
       "user_utterance": {
         "jp": "綺麗な花もいっぱい見ました あと 行ったことないところも行きましたね",
         "en": "We saw lots of beautiful flowers, and went to places I’d never been.",
-        "emotion": "Happy"
+        "emotion": "happy"
       },
       "robot_response": {
         "jp": "それはとても素敵な経験ですね。あなたはどんな綺麗な花を見ましたか？",
         "en": "What a lovely experience. What kind of flowers did you see?",
-        "emotion": "Curious",
-        "gesture": "Smiling"
+        "emotion": "curious",
+        "gesture": "smiling"
       }
     },
     {
@@ -429,13 +429,13 @@
       "user_utterance": {
         "jp": "綺麗ですね",
         "en": "They were beautiful.",
-        "emotion": "Happy"
+        "emotion": "happy"
       },
       "robot_response": {
         "jp": "それはとても素敵ですね。具体的にどんな綺麗な花を見ましたか？",
         "en": "That’s so nice. Can you name any specific flowers you saw?",
-        "emotion": "Curious",
-        "gesture": "Nodding"
+        "emotion": "curious",
+        "gesture": "nodding"
       }
     },
     {
@@ -443,13 +443,13 @@
       "user_utterance": {
         "jp": "ベゴニア種類が多すぎてきました あなたは何歳の設定",
         "en": "Too many kinds of begonias. By the way, how old are you supposed to be?",
-        "emotion": "Curious"
+        "emotion": "curious"
       },
       "robot_response": {
         "jp": "申し訳ありませんが、その質問には答えられません。あなたが見たベゴニアの種類を教えてください。",
         "en": "Sorry, I can’t answer that. But can you tell me what types of begonias you saw?",
-        "emotion": "Neutral",
-        "gesture": "Tilted head"
+        "emotion": "neutral",
+        "gesture": "tilted head"
       },
       "interaction_note": "User asked about the robot's age, which is not relevant to the conversation. The robot redirected to the topic of begonias."
     },
@@ -458,13 +458,13 @@
       "user_utterance": {
         "jp": "5種類 何",
         "en": "Five kinds. What?",
-        "emotion": "Confused"
+        "emotion": "confused"
       },
       "robot_response": {
         "jp": "5種類のベゴニアを見ましたか？それらはどんな種類ですか？",
         "en": "You saw five types of begonias? What were they?",
-        "emotion": "Curious",
-        "gesture": "Nodding"
+        "emotion": "curious",
+        "gesture": "nodding"
       }
     },
     {
@@ -472,13 +472,13 @@
       "user_utterance": {
         "jp": "うんとねー 何だろう 気候のせいか 綺麗さが違いました",
         "en": "Um, I don’t know… maybe the climate made them look different.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "それはとても興味深いですね。どんな種類のベゴニアを見ましたか？",
         "en": "That’s very interesting. Which kinds of begonias did you see?",
-        "emotion": "Curious",
-        "gesture": "Nodding"
+        "emotion": "curious",
+        "gesture": "nodding"
       }
     },
     {
@@ -486,13 +486,13 @@
       "user_utterance": {
         "jp": "木立ベゴニアだったね あと何か 名前の知らないのがいっぱいありました 日本ではきっとそんなに売れても育たないと思うんです",
         "en": "I saw cane begonias. And lots I didn’t know the names of. I don’t think they’d sell or grow well in Japan.",
-        "emotion": "Neutral"
+        "emotion": "neutral"
       },
       "robot_response": {
         "jp": "それはとても興味深いですね。あなたが見た木立ベゴニアはどのような特徴がありましたか？",
         "en": "That’s very interesting. What were the features of the cane begonias you saw?",
-        "emotion": "Curious",
-        "gesture": "Nodding"
+        "emotion": "curious",
+        "gesture": "nodding"
       }
     },
     {
@@ -500,13 +500,13 @@
       "user_utterance": {
         "jp": "立派すぎました 私 自分で育ててたのにすごい 立派だった私のやり方が何か悪いのかな いろいろ",
         "en": "They were just too magnificent. I grow them too, but they were amazing. Maybe I’m doing something wrong.",
-        "emotion": "Confused"
+        "emotion": "confused"
       },
       "robot_response": {
         "jp": "それはとても興味深いですね。あなたが育てた木立ベゴニアと比べて、どのような特徴がありましたか？",
         "en": "That’s very interesting. How did they compare to the ones you grow?",
-        "emotion": "Curious",
-        "gesture": "Nodding"
+        "emotion": "curious",
+        "gesture": "nodding"
       },
       "interaction_note": "User expressed nuanced self-doubt about her gardening skills in JP. Emotional richness and implied comparison were not fully preserved in EN translation."
     }

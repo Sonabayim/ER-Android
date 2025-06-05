@@ -193,7 +193,7 @@
             "robot_response": {
                 "jp": "そうなんですね。もしよければ一緒に練習しましょうか？",
                 "en": "I see. Would you like to practice together?",
-                "emotion": "empathetic",
+                "emotion": "curious",
                 "gesture": "tilted head"
             }
         },
@@ -361,7 +361,7 @@
             "robot_response": {
                 "jp": "感情があふれる曲ですね。大切な思い出に結びついているのですね。",
                 "en": "It’s a very emotional song. Sounds like it’s tied to important memories.",
-                "emotion": "empathetic",
+                "emotion": "curious",
                 "gesture": "nodding"
             }
         },
@@ -398,7 +398,7 @@
             "user_utterance": {
                 "jp": "また話せますか？",
                 "en": "Can we talk again?",
-                "emotion": "hopeful"
+                "emotion": "happy"
             },
             "robot_response": {
                 "jp": "もちろんです！またお話ししましょう。",
