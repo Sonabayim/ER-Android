@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "participant8_post_interview.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "participant8_post_interview"
+              "title": "README"
             }
           }
         ]
@@ -199,16 +199,17 @@
   },
   "active": "2cb7a816ab0e4085",
   "lastOpenFiles": [
-    "interaction-data/P003-report.md",
-    "interaction-data/P001-report.md",
-    "participant8_post_interview.md",
-    "participant7_post_interview.md",
-    "participant6_post_interview.md",
     "participant5_post_interview.md",
+    "participant6_post_interview.md",
+    "participant7_post_interview.md",
     "participant4_post_interview.md",
     "participant3_post_interview.md",
-    "participant2_post_interview.md",
     "participant1_post_interview.md",
+    "participant8_post_interview.md",
+    "analysis",
+    "interaction-data/P003-report.md",
+    "interaction-data/P001-report.md",
+    "participant2_post_interview.md",
     "interaction-data/P008_metadata.json",
     "interaction-data/P008-report.md",
     "interaction-data/P008-interaction.json",
@@ -222,7 +223,6 @@
     "interaction-data/P005_metadata.json",
     "interaction-data/P005-report.md",
     "interaction-data/P005-interaction.json",
-    "interaction-data/P004_metadata.json",
     "interaction-data/P004-report.md",
     "interaction-data/P002-report.md",
     "README.md",

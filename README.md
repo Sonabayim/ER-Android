@@ -2,14 +2,14 @@
 # Emotional responsiveness in socially assistive robots for older adults 
 
 
-This repository contains anonymized transcripts from a master thesis on human–robot interaction (HRI), focusing on post-interaction reflections by older adult participants after conversing with a humanoid android.
+This repository contains anonymized transcripts from a human–robot interaction (HRI) study conducted as part of the e-VITA project at Tohoku University. The study focused on post-interaction reflections by older adult participants after conversing with a humanoid android capable of emotion-adaptive dialogue. Transcripts include discussions about daily life, emotions, and perceptions of the robot’s responsiveness.
 
 All transcripts are formatted in Markdown and structured for qualitative research, readability, and academic reuse.
 
 ---
 ## Overview
 
-This dataset contains a structured interaction between eight older adult participants and Actroid-F. It includes:
+This dataset contains a structured interaction between eight older adult participants and AL-G109ST-F. It includes:
 
 - Multilingual dialogue (Japanese and English)
     
